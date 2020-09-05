@@ -14,6 +14,9 @@
 		7EFD988325042467008EED5E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD988225042467008EED5E /* main.m */; };
 		7EFD988A25042491008EED5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EFD988925042491008EED5E /* Assets.xcassets */; };
 		7EFD988C250424D3008EED5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EFD988B250424D3008EED5E /* Main.storyboard */; };
+		7EFD989325042FE2008EED5E /* Source.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD989225042FE2008EED5E /* Source.m */; };
+		7EFD989825043018008EED5E /* Work.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD989725043018008EED5E /* Work.m */; };
+		7EFD989B2504302D008EED5E /* WorkSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD989A2504302D008EED5E /* WorkSection.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,12 @@
 		7EFD988225042467008EED5E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7EFD988925042491008EED5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EFD988B250424D3008EED5E /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		7EFD989125042FE2008EED5E /* Source.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Source.h; sourceTree = "<group>"; };
+		7EFD989225042FE2008EED5E /* Source.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Source.m; sourceTree = "<group>"; };
+		7EFD989625043018008EED5E /* Work.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Work.h; sourceTree = "<group>"; };
+		7EFD989725043018008EED5E /* Work.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Work.m; sourceTree = "<group>"; };
+		7EFD98992504302D008EED5E /* WorkSection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WorkSection.h; sourceTree = "<group>"; };
+		7EFD989A2504302D008EED5E /* WorkSection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WorkSection.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,10 +95,32 @@
 		7EFD9890250426A8008EED5E /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				7EFD989525042FEE008EED5E /* UI */,
+				7EFD989425042FE7008EED5E /* Models */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		7EFD989425042FE7008EED5E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7EFD989125042FE2008EED5E /* Source.h */,
+				7EFD989225042FE2008EED5E /* Source.m */,
+				7EFD989625043018008EED5E /* Work.h */,
+				7EFD989725043018008EED5E /* Work.m */,
+				7EFD98992504302D008EED5E /* WorkSection.h */,
+				7EFD989A2504302D008EED5E /* WorkSection.m */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		7EFD989525042FEE008EED5E /* UI */ = {
+			isa = PBXGroup;
+			children = (
 				7EFD987625042466008EED5E /* MainViewController.h */,
 				7EFD987725042466008EED5E /* MainViewController.m */,
 			);
-			path = Classes;
+			path = UI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,7 +196,10 @@
 				7EFD987825042466008EED5E /* MainViewController.m in Sources */,
 				7EFD987225042466008EED5E /* AppDelegate.m in Sources */,
 				7EFD988325042467008EED5E /* main.m in Sources */,
+				7EFD989325042FE2008EED5E /* Source.m in Sources */,
+				7EFD989825043018008EED5E /* Work.m in Sources */,
 				7EFD987525042466008EED5E /* SceneDelegate.m in Sources */,
+				7EFD989B2504302D008EED5E /* WorkSection.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
