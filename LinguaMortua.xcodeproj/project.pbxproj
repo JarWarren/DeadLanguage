@@ -17,6 +17,9 @@
 		7EFD989325042FE2008EED5E /* Source.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD989225042FE2008EED5E /* Source.m */; };
 		7EFD989825043018008EED5E /* Work.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD989725043018008EED5E /* Work.m */; };
 		7EFD989B2504302D008EED5E /* WorkSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD989A2504302D008EED5E /* WorkSection.m */; };
+		7EFD989E250433F7008EED5E /* SourceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD989D250433F7008EED5E /* SourceController.m */; };
+		7EFD98A125044181008EED5E /* WorkSelectionTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD98A025044181008EED5E /* WorkSelectionTableViewController.m */; };
+		7EFD98A425044189008EED5E /* ReaderTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD98A325044189008EED5E /* ReaderTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +41,12 @@
 		7EFD989725043018008EED5E /* Work.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Work.m; sourceTree = "<group>"; };
 		7EFD98992504302D008EED5E /* WorkSection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WorkSection.h; sourceTree = "<group>"; };
 		7EFD989A2504302D008EED5E /* WorkSection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WorkSection.m; sourceTree = "<group>"; };
+		7EFD989C250433F7008EED5E /* SourceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceController.h; sourceTree = "<group>"; };
+		7EFD989D250433F7008EED5E /* SourceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SourceController.m; sourceTree = "<group>"; };
+		7EFD989F25044181008EED5E /* WorkSelectionTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WorkSelectionTableViewController.h; sourceTree = "<group>"; };
+		7EFD98A025044181008EED5E /* WorkSelectionTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WorkSelectionTableViewController.m; sourceTree = "<group>"; };
+		7EFD98A225044189008EED5E /* ReaderTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReaderTableViewController.h; sourceTree = "<group>"; };
+		7EFD98A325044189008EED5E /* ReaderTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReaderTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,14 +105,16 @@
 			isa = PBXGroup;
 			children = (
 				7EFD989525042FEE008EED5E /* UI */,
-				7EFD989425042FE7008EED5E /* Models */,
+				7EFD989425042FE7008EED5E /* Sources */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		7EFD989425042FE7008EED5E /* Models */ = {
+		7EFD989425042FE7008EED5E /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				7EFD989C250433F7008EED5E /* SourceController.h */,
+				7EFD989D250433F7008EED5E /* SourceController.m */,
 				7EFD989125042FE2008EED5E /* Source.h */,
 				7EFD989225042FE2008EED5E /* Source.m */,
 				7EFD989625043018008EED5E /* Work.h */,
@@ -111,7 +122,7 @@
 				7EFD98992504302D008EED5E /* WorkSection.h */,
 				7EFD989A2504302D008EED5E /* WorkSection.m */,
 			);
-			path = Models;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		7EFD989525042FEE008EED5E /* UI */ = {
@@ -119,6 +130,10 @@
 			children = (
 				7EFD987625042466008EED5E /* MainViewController.h */,
 				7EFD987725042466008EED5E /* MainViewController.m */,
+				7EFD989F25044181008EED5E /* WorkSelectionTableViewController.h */,
+				7EFD98A025044181008EED5E /* WorkSelectionTableViewController.m */,
+				7EFD98A225044189008EED5E /* ReaderTableViewController.h */,
+				7EFD98A325044189008EED5E /* ReaderTableViewController.m */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -193,8 +208,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EFD98A125044181008EED5E /* WorkSelectionTableViewController.m in Sources */,
 				7EFD987825042466008EED5E /* MainViewController.m in Sources */,
 				7EFD987225042466008EED5E /* AppDelegate.m in Sources */,
+				7EFD989E250433F7008EED5E /* SourceController.m in Sources */,
+				7EFD98A425044189008EED5E /* ReaderTableViewController.m in Sources */,
 				7EFD988325042467008EED5E /* main.m in Sources */,
 				7EFD989325042FE2008EED5E /* Source.m in Sources */,
 				7EFD989825043018008EED5E /* Work.m in Sources */,

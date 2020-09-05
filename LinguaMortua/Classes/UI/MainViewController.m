@@ -7,6 +7,10 @@
 //
 
 #import "MainViewController.h"
+#import "SourceController.h"
+#import "Source.h"
+#import "WorkSelectionTableViewController.h"
+#import "ReaderTableViewController.h"
 
 @interface MainViewController ()
 
@@ -18,6 +22,41 @@
     [super viewDidLoad];
     [self.navigationController.navigationBar setTitleTextAttributes:
     @{NSFontAttributeName:[UIFont fontWithName:@"HiraMinProN-W6" size:24]}];
+}
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    return SourceController.shared.sources.count;
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"sourceCell" forIndexPath:indexPath];
+    Source *source = SourceController.shared.sources[indexPath.row];
+    cell.textLabel.text = source.title;
+    cell.detailTextLabel.text = source.subtitle;
+    return cell;
+}
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    Source *source = SourceController.shared.sources[indexPath.row];
+    if (source.works.count > 1) {
+        [self performSegueWithIdentifier:@"toWorkSelection" sender:self];
+    } else {
+        [self performSegueWithIdentifier:@"toReader" sender:self];
+    }
+}
+
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
+    Source *source = SourceController.shared.sources[indexPath.row];
+    
+    if ([segue.identifier isEqualToString:@"toWorkSelection"]) {
+        WorkSelectionTableViewController *destination = segue.destinationViewController;
+        destination.source = source;
+        
+    } else if ([segue.identifier isEqualToString:@"toReader"]) {
+        ReaderTableViewController *destination = segue.destinationViewController;
+        destination.work = source.works[0];
+    }
 }
 
 @end
