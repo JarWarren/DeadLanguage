@@ -7,13 +7,14 @@
 //
 
 #import <Foundation/Foundation.h>
+@class WorkSection;
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface Work : NSObject
 
 @property NSString *title;
-@property NSArray *sections;
+@property NSArray<WorkSection*> *sections;
 
 - (instancetype) initWithTitle:(NSString *)title
                      sections:(NSArray *)sections;
