@@ -11,3 +11,9 @@ I considered adding English translations, but most are copyrighted and I didn't 
 
 ### Can I use this for my own work?
 Yes. Most of the included Latin sources are from the Medieval time period or earlier and **all** are freely available under public domain. The app itself falls under the MIT License.
+
+### Previews
+<p float="left">
+  <img src="preview0.png" width="240" />
+  <img src="preview1.png" width="240" /> 
+</p>
