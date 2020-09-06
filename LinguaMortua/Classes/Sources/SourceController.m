@@ -574,7 +574,7 @@
         ]],
         [[Source alloc]
          initWithTitle:@"Alcuin of York" // not done with alcuin
-         subtitle:@"Latin: Flaccus Albinus Alcuinus – an English scholar, clergyman, poet, and teacher from York, Northumbria. Alcuin wrote many theological and dogmatic treatises, as well as a few grammatical works and a number of poems. \"The most learned man anywhere to be found\", according to Einhard's Life of Charlemagne, he is considered among the most important architects of the Carolingian Renaissance."
+         subtitle:@"An English scholar, clergyman, poet, and teacher. Named \"the most learned man anywhere to be found\" by a well known contemporary. Known to have written many theological treatises, many poems and a handful of other works."
          date:@"circa 735-804"
          works:@[
              [[Work alloc]
@@ -627,7 +627,7 @@
          ]],
         [[Source alloc]
          initWithTitle:@"Day of Wrath"
-         subtitle:@"Medieval Latin poem describing the Last Judgment, with a trumpet summoning souls before the throne of God. The saved will be delivered and the rest cast into eternal flames. Best known for its use in the Requiem."
+         subtitle:@"Well known for its use in the Requiem, The Day of Wrath is a poem describing the Final Judgement. The earth quakes and a trumpet summons all before the throne of God to be judged from a book. The worthy receive remission and the cursed are burned by everlasting fire. There are a few candidates for attribution, but ultimately the author is unknown."
          date:@"1200s"
          works:@[
              [[Work alloc]
