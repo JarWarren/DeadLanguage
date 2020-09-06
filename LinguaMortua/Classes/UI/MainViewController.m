@@ -19,10 +19,15 @@
 
 @implementation MainViewController
 
-- (void)viewDidLoad {
+- (void)viewWillAppear:(BOOL)animated {
     [super viewDidLoad];
     [self.navigationController.navigationBar setTitleTextAttributes:
     @{NSFontAttributeName:[UIFont fontWithName:@"HiraMinProN-W6" size:24]}];
+}
+
+- (void)viewWillDisappear:(BOOL)animated {
+    [self.navigationController.navigationBar setTitleTextAttributes:
+    @{NSFontAttributeName:[UIFont fontWithName:@"HiraMinProN-W3" size:18]}];
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {

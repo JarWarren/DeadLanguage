@@ -13,7 +13,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface WorkSelectionTableViewController : UITableViewController
 
-@property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 @property Source *source;
 
 @end
