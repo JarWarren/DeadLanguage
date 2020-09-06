@@ -19,7 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.titleLabel.text = self.work.title;
+    self.navigationItem.title = self.work.title;
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
@@ -33,6 +33,7 @@
     headerLabel.numberOfLines = 0;
     headerLabel.lineBreakMode = NSLineBreakByWordWrapping;
     headerLabel.backgroundColor = UIColor.whiteColor;
+    headerLabel.font = [UIFont fontWithName:@"HiraMinProN-W3" size:16];
     return headerLabel;
 }
 

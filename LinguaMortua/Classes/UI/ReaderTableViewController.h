@@ -12,7 +12,6 @@
 
 @interface ReaderTableViewController : UITableViewController
 
-@property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 @property Work *work;
 
 @end
