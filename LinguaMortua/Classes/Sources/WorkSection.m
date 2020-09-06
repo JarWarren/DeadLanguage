@@ -10,11 +10,10 @@
 
 @implementation WorkSection
 
-- (instancetype)initWithHeader:(NSString *)header info:(NSString *)info text:(NSArray *)text {
+- (instancetype)initWithHeader:(NSString *)header text:(NSArray *)text {
     self = [super init];
     if (self) {
         _header = header;
-        _info = info;
         _text = text;
     }
     return self;
