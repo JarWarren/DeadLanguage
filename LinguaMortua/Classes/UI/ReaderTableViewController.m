@@ -29,7 +29,7 @@
 - (UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
     UILabel *headerLabel = [UILabel new];
     headerLabel.textAlignment = NSTextAlignmentCenter;
-    headerLabel.text = self.work.sections[section].info;
+    headerLabel.text = self.work.sections[section].header;
     return headerLabel;
 }
 
@@ -39,8 +39,7 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"textCell" forIndexPath:indexPath];
-    cell.textLabel.text = @"";
-    cell.detailTextLabel.text = self.work.sections[indexPath.section].text[indexPath.row];
+    cell.textLabel.text = self.work.sections[indexPath.section].text[indexPath.row];
     return cell;
 }
 

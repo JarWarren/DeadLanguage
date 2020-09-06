@@ -7,6 +7,7 @@
 //
 
 #import "MainViewController.h"
+#import "SourceTableViewCell.h"
 #import "SourceController.h"
 #import "Source.h"
 #import "WorkSelectionTableViewController.h"
@@ -25,14 +26,15 @@
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return SourceController.shared.sources.count;
+    return SourceController.shared.sources.count - 1; // last item in the array is an empty template
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"sourceCell" forIndexPath:indexPath];
+    SourceTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"sourceCell" forIndexPath:indexPath];
     Source *source = SourceController.shared.sources[indexPath.row];
-    cell.textLabel.text = source.title;
-    cell.detailTextLabel.text = source.subtitle;
+    cell.titleLabel.text = source.title;
+    cell.dateLabel.text = source.date;
+    cell.infoLabel.text = source.subtitle;
     return cell;
 }
 
