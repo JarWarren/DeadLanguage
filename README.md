@@ -4,4 +4,4 @@ DeadLanguage or LinguaMortua is a collection of less-mainstream Latin resources 
 
 I considered adding English translations, but most are copyrighted and I didn't want to have a mixture of translated and untranslated text.
 
-All included Latin sources are from the Medieval time period or earlier and are therefore freely available under public domain. The app itself is available under the MIT License.
+Most of the included Latin sources are from the Medieval time period or earlier and all are freely available under public domain. The app itself falls under the MIT License.
