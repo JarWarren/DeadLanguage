@@ -28,9 +28,16 @@
 
 - (UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
     UILabel *headerLabel = [UILabel new];
-    headerLabel.textAlignment = NSTextAlignmentCenter;
     headerLabel.text = self.work.sections[section].header;
+    headerLabel.textAlignment = NSTextAlignmentCenter;
+    headerLabel.numberOfLines = 0;
+    headerLabel.lineBreakMode = NSLineBreakByWordWrapping;
+    headerLabel.backgroundColor = UIColor.whiteColor;
     return headerLabel;
+}
+
+- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section {
+    return 44;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {

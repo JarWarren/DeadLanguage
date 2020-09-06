@@ -13,11 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 @interface WorkSection : NSObject
 
 @property NSString *header;
-@property NSString *info;
 @property NSArray *text;
 
 - (instancetype) initWithHeader:(NSString *)header
-                           info:(NSString *)info
                            text:(NSArray *)text;
 
 @end
