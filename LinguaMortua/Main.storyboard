@@ -15,29 +15,52 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="sourceCell" textLabel="2bc-jy-S8i" detailTextLabel="t65-xh-2hO" style="IBUITableViewCellStyleSubtitle" id="8wM-Pl-qXp">
-                                <rect key="frame" x="0.0" y="28" width="414" height="73"/>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="sourceCell" rowHeight="244" id="huD-vg-78H" customClass="SourceTableViewCell">
+                                <rect key="frame" x="0.0" y="28" width="414" height="244"/>
                                 <autoresizingMask key="autoresizingMask"/>
-                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="8wM-Pl-qXp" id="0Jc-Va-oPq">
-                                    <rect key="frame" x="0.0" y="0.0" width="383" height="73"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="huD-vg-78H" id="8xK-B6-VeZ">
+                                    <rect key="frame" x="0.0" y="0.0" width="383" height="244"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Name of Source" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" adjustsFontSizeToFit="NO" id="2bc-jy-S8i">
-                                            <rect key="frame" x="20" y="8" width="126.5" height="20.5"/>
-                                            <autoresizingMask key="autoresizingMask"/>
-                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
-                                            <nil key="textColor"/>
-                                            <nil key="highlightedColor"/>
-                                        </label>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Information about source. Also in English, with a size spanning anywhere from a single sentence to perhaps a small paragraph." textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" adjustsFontSizeToFit="NO" id="t65-xh-2hO">
-                                            <rect key="frame" x="20" y="31.5" width="316.5" height="32"/>
-                                            <autoresizingMask key="autoresizingMask"/>
-                                            <fontDescription key="fontDescription" name="LaoSangamMN" family="Lao Sangam MN" pointSize="12"/>
-                                            <nil key="textColor"/>
-                                            <nil key="highlightedColor"/>
-                                        </label>
+                                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="8UN-2p-MKf">
+                                            <rect key="frame" x="20" y="11" width="355" height="222"/>
+                                            <subviews>
+                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Name of Source" lineBreakMode="wordWrap" numberOfLines="0" adjustsFontSizeToFit="NO" id="OvO-Y2-eTz">
+                                                    <rect key="frame" x="114.5" y="0.0" width="126.5" height="174"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Date" lineBreakMode="wordWrap" numberOfLines="0" adjustsFontSizeToFit="NO" id="3c1-5a-6o9">
+                                                    <rect key="frame" x="165.5" y="174" width="24.5" height="16"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" name="LaoSangamMN" family="Lao Sangam MN" pointSize="12"/>
+                                                    <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Information about source. Also in English, with a size spanning anywhere from a single sentence to perhaps a small paragraph." lineBreakMode="wordWrap" numberOfLines="0" adjustsFontSizeToFit="NO" id="mib-3y-eKq">
+                                                    <rect key="frame" x="19.5" y="190" width="316.5" height="32"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" name="LaoSangamMN" family="Lao Sangam MN" pointSize="12"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </stackView>
                                     </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="bottomMargin" secondItem="8UN-2p-MKf" secondAttribute="bottom" id="FN6-gR-QHB"/>
+                                        <constraint firstAttribute="trailingMargin" secondItem="8UN-2p-MKf" secondAttribute="trailing" id="XUL-3h-h3b"/>
+                                        <constraint firstItem="8UN-2p-MKf" firstAttribute="leading" secondItem="8xK-B6-VeZ" secondAttribute="leadingMargin" id="sOd-ng-UFG"/>
+                                        <constraint firstItem="8UN-2p-MKf" firstAttribute="top" secondItem="8xK-B6-VeZ" secondAttribute="topMargin" id="wk4-oh-5DQ"/>
+                                    </constraints>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="dateLabel" destination="3c1-5a-6o9" id="uN5-be-G3L"/>
+                                    <outlet property="infoLabel" destination="mib-3y-eKq" id="tBv-Dd-LwP"/>
+                                    <outlet property="titleLabel" destination="OvO-Y2-eTz" id="UQK-cE-no1"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -129,22 +152,15 @@
                             <nil key="highlightedColor"/>
                         </label>
                         <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="textCell" textLabel="foP-wX-w2f" detailTextLabel="Zhg-rF-0hM" style="IBUITableViewCellStyleSubtitle" id="ZGO-Cd-q36">
-                                <rect key="frame" x="0.0" y="72" width="414" height="57"/>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="textCell" textLabel="foP-wX-w2f" style="IBUITableViewCellStyleDefault" id="ZGO-Cd-q36">
+                                <rect key="frame" x="0.0" y="72" width="414" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="ZGO-Cd-q36" id="el2-4l-gom">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="57"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Title" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" adjustsFontSizeToFit="NO" id="foP-wX-w2f">
-                                            <rect key="frame" x="20" y="11" width="36.5" height="20.5"/>
-                                            <autoresizingMask key="autoresizingMask"/>
-                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
-                                            <nil key="textColor"/>
-                                            <nil key="highlightedColor"/>
-                                        </label>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Subtitle" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" adjustsFontSizeToFit="NO" id="Zhg-rF-0hM">
-                                            <rect key="frame" x="20" y="31.5" width="39" height="16"/>
+                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="foP-wX-w2f">
+                                            <rect key="frame" x="20" y="0.0" width="374" height="44"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <fontDescription key="fontDescription" name="LaoSangamMN" family="Lao Sangam MN" pointSize="12"/>
                                             <nil key="textColor"/>
@@ -165,6 +181,13 @@
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hdV-48-1Rx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Opus" textAlignment="center" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="MrD-1w-aBd">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="HiraMinProN-W6" family="Hiragino Mincho ProN" pointSize="24"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
             </objects>
             <point key="canvasLocation" x="3081" y="137"/>
         </scene>
@@ -190,6 +213,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="ZWU-Ki-oWd"/>
+        <segue reference="gR3-ot-4pQ"/>
     </inferredMetricsTieBreakers>
 </document>

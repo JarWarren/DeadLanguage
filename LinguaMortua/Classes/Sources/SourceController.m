@@ -38,11 +38,11 @@
          date:@"circa 735-804"
          works:@[
              [[Work alloc]
-              initWithTitle:@"De Luscinia"
+              initWithTitle:@"Concerning a Nightingale"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Luscinia"
-                   info:@"Concerning a Nightingale"
+                   info:@""
                    text:@[
                        @"Quae te dextra mihi rapuit, luscinia, ruscis,\nilla meae fuerat invida laetitiae.",
                        @"Tu mea dulcisonis implesti pectora musis,\natque animum moestum carmine mellifluo.",
@@ -54,11 +54,11 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@"Versus de Cuculo"
+              initWithTitle:@"Lines of the Cuckoo"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Versus de Cuculo"
-                   info:@"Lines of the Cuckoo"
+                   info:@""
                    text:@[
                        @"Heu, cuculus nobis fuerat cantare suetus,\nquae te nunc rapuit hora nefanda tuis?",
                        @"Heu, cuculus, cuculus, qua te regione reliqui,\ninfelix nobis illa dies fuerat.",
@@ -93,11 +93,11 @@
          date:@"13th century"
          works:@[
              [[Work alloc]
-              initWithTitle:@"Dies Irae"
+              initWithTitle:@"The Day of Wrath"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Dies Irae"
-                   info:@"The Day of Wrath"
+                   info:@""
                    text:@[
                        @"Dies irae, dies illa\nsolvet saeclum in favilla:\nteste David cum Sibylla.",
                        @"Quantus tremor est futurus,\nquando judex est venturus,\ncuncta stricte discussurus!",
