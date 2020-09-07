@@ -33,92 +33,6 @@
 - (NSArray *) initializeSources {
     return @[
         [[Source alloc]
-         initWithTitle:@"Creeds"
-         subtitle:@"A collection of early Christian creeds."
-         date:@"300s-500s"
-         works:@[
-             [[Work alloc]
-              initWithTitle:@"Nicene Creed"
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@"Symbolum Nicænum"
-                   text:@[
-                       @"Credo in unum Deum, Patrem omnipotentem, factorem caeli et terrae,visibilium omnium et invisibilium.",
-                       @"Et in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula.",
-                       @"Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.",
-                       @"Qui propter nos homines et propter nostram salutem descendit de caelis.",
-                       @"Et incarnatus est de Spiritu Sancto ex Maria Virgine, et homo factus est.",
-                       @"Crucifixus etiam pro nobis sub Pontio Pilato, passus et sepultus est, et resurrexit tertia die, secundum Scripturas, et ascendit in caelum, sedet ad dexteram Patris.",
-                       @"Et iterum venturus est cum gloria, iudicare vivos et mortuos, cuius regni non erit finis.",
-                       @"Et in Spiritum Sanctum, Dominum et vivificantem, qui ex Patre Filioque procedit.",
-                       @"Qui cum Patre et Filio simul adoratur et conglorificatur: qui locutus est per prophetas.",
-                       @"Et unam, sanctam, catholicam et apostolicam Ecclesiam.",
-                       @"Confiteor unum baptisma in remissionem peccatorum.",
-                       @"Et expecto resurrectionem mortuorum, et vitam venturi saeculi."
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@"Athanasian Creed"
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@"Quicumque Vult"
-                   text:@[
-                       @"Quicumque vult salvus esse, ante omnia opus est, ut teneat catholicam fidem:",
-                       @"Quam nisi quisque integram inviolatamque servaverit, absque dubio in aeternam peribit.",
-                       @"Fides autem catholica haec est: ut unum Deum in Trinitate, et Trinitatem in unitate veneremur.",
-                       @"Neque confundentes personas, neque substantiam seperantes.",
-                       @"Alia est enim persona Patris alia Filii, alia Spiritus Sancti:",
-                       @"Sed Patris, et Fili, et Spiritus Sancti una est divinitas, aequalis gloria, coeterna maiestas.",
-                       @"Qualis Pater, talis Filius, talis Spiritus Sanctus. Increatus Pater, increatus Filius, increatus Spiritus Sanctus.",
-                       @"Immensus Pater, immensus Filius, immensus Spiritus Sanctus.",
-                       @"Aeternus Pater, aeternus Filius, aeternus Spiritus Sanctus.",
-                       @"Et tamen non tres aeterni, sed unus aeternus.",
-                       @"Sicut non tres increati, nec tres immensi, sed unus increatus, et unus immensus.",
-                       @"Similiter omnipotens Pater, omnipotens Filius, omnipotens Spiritus Sanctus.",
-                       @"Et tamen non tres omnipotentes, sed unus omnipotens.",
-                       @"Ita Deus Pater, Deus Filius, Deus Spiritus Sanctus.",
-                       @"Et tamen non tres dii, sed unus est Deus.",
-                       @"Ita Dominus Pater, Dominus Filius, Dominus Spiritus Sanctus.",
-                       @"Et tamen non tres Domini, sed unus est Dominus.",
-                       @"Quia, sicut singillatim unamquamque personam Deum ac Dominum confiteri christiana veritate compelimur: ita tres Deos aut Dominos dicere catholica religione prohibemur.",
-                       @"Pater a nullo est factus: nec creatus, nec genitus.",
-                       @"Filius a Patre solo est: non factus, nec creatus, sed genitus.",
-                       @"Spiritus Sanctus a Patre et Filio: non factus, nec creatus, nec genitus, sed procedens.",
-                       @"Unus ergo Pater, non tres Patres: unus Filius, non tres Filii: unus Spiritus Sanctus, non tres Spiritus Sancti.",
-                       @"Et in hac Trinitate nihil prius aut posterius, nihil maius aut minus: sed totae tres personae coaeternae sibi sunt et coaequales.",
-                       @"Ita ut per omnia, sicut iam supra dictum est, et unitas in Trinitate, et Trinitas in unitate veneranda sit.",
-                       @"Qui vult ergo salvus esse, ita de Trinitate sentiat.",
-                       @"Sed necessarium est ad aeternam salutem, ut incarnationem quoque Domini nostri Iesu Christi fideliter credat.",
-                       @"Est ergo fides recta ut credamus et confiteamur, quia Dominus noster Iesus Christus, Dei Filius, Deus et homo est.",
-                       @"Deus est ex substantia Patris ante saecula genitus: et homo est ex substantia matris in saeculo natus.",
-                       @"Perfectus Deus, perfectus homo: ex anima rationali et humana carne subsistens.",
-                       @"Aequalis Patri secundum divinitatem: minor Patre secundum humanitatem.",
-                       @"Qui licet Deus sit et homo, non duo tamen, sed unus est Christus.",
-                       @"Unus autem non conversione divinitatis in carnem, sed assumptione humanitatis in Deum.",
-                       @"Unus omnino, non confusione substantiae, sed unitate personae.",
-                       @"Nam sicut anima rationalis et caro unus est homo: ita Deus et homo unus est Christus.",
-                       @"Qui passus est pro salute nostra: descendit ad inferos: tertia die resurrexit a mortuis.",
-                       @"Ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis: inde venturus est iudicare vivos et mortuos.",
-                       @"Ad cuius adventum omnes homines resurgere habent cum corporibus suis: et reddituri sunt de factis propriis rationem.",
-                       @"Et qui bona egerunt, ibunt in vitam aeternam: qui vero mala, in ignem aeternum.",
-                       @"Haec est fides catholica, quam nisi quisque fideliter firmiterque crediderit, salvus esse non poterit.",
-                       @"Amen."
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@"Apostle's Creed"
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@"Symbolum Apostolorum"
-                   text:@[
-                       @"Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae.",
-                       @"Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus, et sepultus, descendit ad inferos, tertia die resurrexit a mortuis, ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis, inde venturus est iudicare vivos et mortuos.",
-                       @"Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam aeternam.",
-                       @"Amen."
-                   ]]
-              ]]
-         ]],
-        [[Source alloc]
          initWithTitle:@"Saint Ambrose"
          subtitle:@"The Bishop of Milan in the late 4th century and now its patron saint. His influential life and extensive writings are credited with helping to shape Western Christianity in its early days."
          date:@"circa 340-397"
@@ -891,6 +805,278 @@
                        @"Oro supplex et acclinis,\ncor contritum quasi cinis:\ngere curam mei finis.",
                        @"Lacrimosa dies illa,\nqua resurget ex favilla\njudicandus homo reus.",
                        @"Huic ergo parce, Deus:\npie Jesu Domine,\ndona eis requiem. Amen."
+                   ]]
+              ]]
+         ]],
+        [[Source alloc]
+         initWithTitle:@"Creeds"
+         subtitle:@"A collection of early Christian creeds."
+         date:@"300s-500s"
+         works:@[
+             [[Work alloc]
+              initWithTitle:@"Nicene Creed"
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Symbolum Nicænum"
+                   text:@[
+                       @"Credo in unum Deum, Patrem omnipotentem, factorem caeli et terrae,visibilium omnium et invisibilium.",
+                       @"Et in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula.",
+                       @"Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.",
+                       @"Qui propter nos homines et propter nostram salutem descendit de caelis.",
+                       @"Et incarnatus est de Spiritu Sancto ex Maria Virgine, et homo factus est.",
+                       @"Crucifixus etiam pro nobis sub Pontio Pilato, passus et sepultus est, et resurrexit tertia die, secundum Scripturas, et ascendit in caelum, sedet ad dexteram Patris.",
+                       @"Et iterum venturus est cum gloria, iudicare vivos et mortuos, cuius regni non erit finis.",
+                       @"Et in Spiritum Sanctum, Dominum et vivificantem, qui ex Patre Filioque procedit.",
+                       @"Qui cum Patre et Filio simul adoratur et conglorificatur: qui locutus est per prophetas.",
+                       @"Et unam, sanctam, catholicam et apostolicam Ecclesiam.",
+                       @"Confiteor unum baptisma in remissionem peccatorum.",
+                       @"Et expecto resurrectionem mortuorum, et vitam venturi saeculi."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@"Athanasian Creed"
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Quicumque Vult"
+                   text:@[
+                       @"Quicumque vult salvus esse, ante omnia opus est, ut teneat catholicam fidem:",
+                       @"Quam nisi quisque integram inviolatamque servaverit, absque dubio in aeternam peribit.",
+                       @"Fides autem catholica haec est: ut unum Deum in Trinitate, et Trinitatem in unitate veneremur.",
+                       @"Neque confundentes personas, neque substantiam seperantes.",
+                       @"Alia est enim persona Patris alia Filii, alia Spiritus Sancti:",
+                       @"Sed Patris, et Fili, et Spiritus Sancti una est divinitas, aequalis gloria, coeterna maiestas.",
+                       @"Qualis Pater, talis Filius, talis Spiritus Sanctus. Increatus Pater, increatus Filius, increatus Spiritus Sanctus.",
+                       @"Immensus Pater, immensus Filius, immensus Spiritus Sanctus.",
+                       @"Aeternus Pater, aeternus Filius, aeternus Spiritus Sanctus.",
+                       @"Et tamen non tres aeterni, sed unus aeternus.",
+                       @"Sicut non tres increati, nec tres immensi, sed unus increatus, et unus immensus.",
+                       @"Similiter omnipotens Pater, omnipotens Filius, omnipotens Spiritus Sanctus.",
+                       @"Et tamen non tres omnipotentes, sed unus omnipotens.",
+                       @"Ita Deus Pater, Deus Filius, Deus Spiritus Sanctus.",
+                       @"Et tamen non tres dii, sed unus est Deus.",
+                       @"Ita Dominus Pater, Dominus Filius, Dominus Spiritus Sanctus.",
+                       @"Et tamen non tres Domini, sed unus est Dominus.",
+                       @"Quia, sicut singillatim unamquamque personam Deum ac Dominum confiteri christiana veritate compelimur: ita tres Deos aut Dominos dicere catholica religione prohibemur.",
+                       @"Pater a nullo est factus: nec creatus, nec genitus.",
+                       @"Filius a Patre solo est: non factus, nec creatus, sed genitus.",
+                       @"Spiritus Sanctus a Patre et Filio: non factus, nec creatus, nec genitus, sed procedens.",
+                       @"Unus ergo Pater, non tres Patres: unus Filius, non tres Filii: unus Spiritus Sanctus, non tres Spiritus Sancti.",
+                       @"Et in hac Trinitate nihil prius aut posterius, nihil maius aut minus: sed totae tres personae coaeternae sibi sunt et coaequales.",
+                       @"Ita ut per omnia, sicut iam supra dictum est, et unitas in Trinitate, et Trinitas in unitate veneranda sit.",
+                       @"Qui vult ergo salvus esse, ita de Trinitate sentiat.",
+                       @"Sed necessarium est ad aeternam salutem, ut incarnationem quoque Domini nostri Iesu Christi fideliter credat.",
+                       @"Est ergo fides recta ut credamus et confiteamur, quia Dominus noster Iesus Christus, Dei Filius, Deus et homo est.",
+                       @"Deus est ex substantia Patris ante saecula genitus: et homo est ex substantia matris in saeculo natus.",
+                       @"Perfectus Deus, perfectus homo: ex anima rationali et humana carne subsistens.",
+                       @"Aequalis Patri secundum divinitatem: minor Patre secundum humanitatem.",
+                       @"Qui licet Deus sit et homo, non duo tamen, sed unus est Christus.",
+                       @"Unus autem non conversione divinitatis in carnem, sed assumptione humanitatis in Deum.",
+                       @"Unus omnino, non confusione substantiae, sed unitate personae.",
+                       @"Nam sicut anima rationalis et caro unus est homo: ita Deus et homo unus est Christus.",
+                       @"Qui passus est pro salute nostra: descendit ad inferos: tertia die resurrexit a mortuis.",
+                       @"Ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis: inde venturus est iudicare vivos et mortuos.",
+                       @"Ad cuius adventum omnes homines resurgere habent cum corporibus suis: et reddituri sunt de factis propriis rationem.",
+                       @"Et qui bona egerunt, ibunt in vitam aeternam: qui vero mala, in ignem aeternum.",
+                       @"Haec est fides catholica, quam nisi quisque fideliter firmiterque crediderit, salvus esse non poterit.",
+                       @"Amen."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@"Apostle's Creed"
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Symbolum Apostolorum"
+                   text:@[
+                       @"Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae.",
+                       @"Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus, et sepultus, descendit ad inferos, tertia die resurrexit a mortuis, ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis, inde venturus est iudicare vivos et mortuos.",
+                       @"Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam aeternam.",
+                       @"Amen."
+                   ]]
+              ]]
+         ]],
+        [[Source alloc]
+         initWithTitle:@"Hymns and Songs"
+         subtitle:@"A collection of Christian hymns and songs."
+         date:@"1100s-1700s"
+         works:@[
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@""
+                   text:@[
+                       @""
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@"The Requiem - Mozart"
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Introitus"
+                   text:@[
+                       @"Requiem aeternam dona ets, Domine,\net lux perpetua luceat ets.\nTe decet hymnus, Deus, in Sion,\net tibi reddetur votum in Jerusalem.\nExaudi orationem meam,\nad te omnis caro veniet.\nRequiem aeternam dona ets, Domine,\net lux perpetua luceat ets."
+                   ]],
+                  [[WorkSection alloc]
+                   initWithHeader:@"Kyrie"
+                   text:@[
+                       @"Kyrie eleison.\nChriste eleison.\nKyrie eleison."
+                   ]],
+                  [[WorkSection alloc]
+                   initWithHeader:@"Sequentia"
+                   text:@[
+                       @"Dies irae, dies illa\nSolvet saeclum in favilla,\nTeste David cum Sibylla.",
+                       @"Quantus tremor est futurus\nQuando judex est venturus\nCuncta stricte discussurus.",
+                       @"Tuba mirum spargens sonum\nPer sepulcra regionum\nCoget omnes ante thronum.",
+                       @"Mors slopebit et natora\nCum resurget creatura\nJudicanti responsura.",
+                       @"Liber scriptus proferetur\nIn quo totum continetur,\nUnde mundus judicetur.",
+                       @"Judex ergo cum sedebit\nQuidquid latet apparebit,\nNil inultum remanebit.",
+                       @"Quid sum miser tunc dicturus,\nQuem patronum togaturus,\nCum vix justus sit securus?",
+                       @"Rex tremendae majestatis,\nQui salvandos salvas gratis,\nSalve me, fons pietatis.",
+                       @"Recordare, Jesu pie,\nQuod sum causa tuae viae,\nNe me perdas ilia die.",
+                       @"Quaerens me sedisti lassus,\nRedemisti crucem passus,\nTamus labor non sit cassus.",
+                       @"Juste judex ultionis\nDonum fac remissionis\nAnte diem rationis.",
+                       @"lngemisco tamquam reus,\nCulpa rubet vultus meus,\nSupplicanti parce, Deus.",
+                       @"Qui Mariam absolvisti\nEt latronem exaudisti,\nMihi quoque spem dedisti.",
+                       @"Preces meae non sum dignae,\nSed tu bonus fac benigne,\nNe perenni cremet igne.",
+                       @"Inter oves locurn praesta,\nEt ab haedis me sequestra,\nStatuens in parle dextra.",
+                       @"Confutatis maledictis\nFlammis acribus addictis,\nVoca me cum benedictis.",
+                       @"Oro supplex et acclinis,\nCor contritum quasi cinis,\nGere curam mei finis.",
+                       @"Lacrimosa dies ilia\nQua resurget ex favilla\nJudicandus homo reus.\nHuic ergo parce, Deus,\nPie Jesu Domine,\nDona els requiem."
+                   ]],
+                  [[WorkSection alloc]
+                   initWithHeader:@"Offertorium"
+                   text:@[
+                       @"Domine, Jesu Christe, Rex gloriae,\nlibera animas omniurn fidelium defunctorum\nde poenis inferni, et de prof undo lacu:\nlibera cas de ore leonis,\nne absorbeat eas tartarus, ne cadant in obscurum,",
+                       @"sed signifer sanctus Michael\nrepraesentet eas in lucem sanctam,\nquam olim Abrahae promisisti\net semini ejus.",
+                       @"Hostias et preces, tibi, Domine,\nlaudis offerimus:\ntu suscipe pro animabus illis,\nquarum hodie memoriam facimus:\nfac eas, Domine, de morte Iransire ad vitam,\nquam olim Abrahae promisisti\net semini ejus."
+                   ]],
+                  [[WorkSection alloc]
+                   initWithHeader:@"Sanctus"
+                   text:@[
+                       @"Sanctus\nSanctus. Sanctus, Sanctus,\nDominus Deus Sabaoth!\nPleni suni coeli et terra gloria tua.\nOsanna in excelsis."
+                   ]],
+                  [[WorkSection alloc]
+                   initWithHeader:@"Benedictus"
+                   text:@[
+                       @"Benedictus qui venit in nomine Domini.\nOsanna in excelsis."
+                   ]],
+                  [[WorkSection alloc]
+                   initWithHeader:@"Agnus Dei"
+                   text:@[
+                       @"Agnus Dei, qui tollis peccata mundi,\ndona eis requiem.\nAgnus Dei, qui tollis peccata mundi,\ndona eis requiem sempiternam."
+                   ]],
+                  [[WorkSection alloc]
+                   initWithHeader:@"Communio"
+                   text:@[
+                       @"Lux aeterna luceat eis, Domine,\ncum sanctis mis in aeternum,\nquia pius es.\nRequiem aeternam dona eis, Domine,\net lux perpetua luceat eis,\ncum sanetis tuis in aeternum,\nquia plus es."
                    ]]
               ]]
          ]],
