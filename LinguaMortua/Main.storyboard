@@ -68,7 +68,9 @@
                             <outlet property="delegate" destination="kCn-BG-VhB" id="Gil-9a-jxw"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="L" largeTitleDisplayMode="never" id="cKt-Xg-nMJ"/>
+                    <navigationItem key="navigationItem" title="L" id="cKt-Xg-nMJ">
+                        <barButtonItem key="backBarButtonItem" title=" " id="zoA-eJ-8kb"/>
+                    </navigationItem>
                     <connections>
                         <segue destination="xu7-Eu-zwn" kind="show" identifier="toWorkSelection" id="r25-nZ-tQ2"/>
                         <segue destination="CVy-be-EwV" kind="show" identifier="toReader" id="gR3-ot-4pQ"/>
@@ -118,7 +120,9 @@
                             <outlet property="delegate" destination="xu7-Eu-zwn" id="qSH-k5-bEC"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="rW1-Fb-DnD"/>
+                    <navigationItem key="navigationItem" id="rW1-Fb-DnD">
+                        <barButtonItem key="backBarButtonItem" title=" " id="v9q-Ni-qzk"/>
+                    </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1HF-wH-Mgw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -156,7 +160,9 @@
                             <outlet property="delegate" destination="CVy-be-EwV" id="4yO-4I-GdW"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="mm0-vg-4Sd"/>
+                    <navigationItem key="navigationItem" id="mm0-vg-4Sd">
+                        <barButtonItem key="backBarButtonItem" title=" " id="Xpr-5W-b47"/>
+                    </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hdV-48-1Rx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Opus" textAlignment="center" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="MrD-1w-aBd">
@@ -191,6 +197,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="gR3-ot-4pQ"/>
+        <segue reference="ZWU-Ki-oWd"/>
     </inferredMetricsTieBreakers>
 </document>
