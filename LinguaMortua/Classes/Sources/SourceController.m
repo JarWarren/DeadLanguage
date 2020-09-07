@@ -145,7 +145,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@"Ambrose to his sister Marcellina"
+              initWithTitle:@"Ambrose to his Sister Marcellina"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Ambrosi Epistula ad Sororem Marcellinam"
@@ -897,186 +897,139 @@
         [[Source alloc]
          initWithTitle:@"Hymns and Songs"
          subtitle:@"A collection of Christian hymns and songs."
-         date:@"1100s-1700s"
+         date:@"400s-1700s"
          works:@[
              [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
+             initWithTitle:@"O Come, All Ye Faithful"
+             sections:@[
+                 [[WorkSection alloc]
+                  initWithHeader:@"Adeste Fidelis"
+                  text:@[
+                      @"Adeste, fideles, laeti, triumphantes,\nvenite, venite in Bethlehem:\nnatum videte regem angelorum.\nvenite, adoremus Dominum",
+                      @"Deum de Deo, lumen ex lumine,\ngestant puellae viscera,\nDeum verum, genitum non factum.\nvenite, adoremus Dominum",
+                      @"Cantet nunc io, chorus angelorum;\ncantet nunc aula caelestium:\ngloria, gloria in excelsis Deo.\nvenite, adoremus Dominum",
+                      @"En grege relicto, humiles ad cunas\nvocati pastores approperant:\net nos ovanti gradu festinemus:\nvenite, adoremus Dominum",
+                      @"Ergo qui natus die hodierna\nJesu, tibi sit gloria:\nPatris aeterni verbum caro factum.\nvenite, adoremus Dominum"
+                  ]]
+             ]],
              [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
+             initWithTitle:@"O Come O Come, Emmanuel"
+             sections:@[
+                 [[WorkSection alloc]
+                  initWithHeader:@"Veni, Veni, Emmanuel"
+                  text:@[
+                      @"Veni, veni, Emmanuel;\ncaptivum solve Israel\nqui gemit in exilio\nprivatus Dei Filio.\ngaude, gaude; Emmanuel nascetur pro te, Israel.",
+                      @"Veni, O Jesse Virgula,\nex hostis tuos ungula,\nde specu tuos tartari\neduc et antro barathri.\ngaude, gaude; Emmanuel nascetur pro te, Israel.",
+                      @"Veni, veni, O Oriens;\nsolare nos adveniens;\nnoctis depelle nebulas\ndirasque noctis tenebras.\ngaude, gaude; Emmanuel nascetur pro te, Israel.",
+                      @"Veni, Clavis Davidica;\nregna reclude caelica;\nfac iter tutum superum,\net claude vias inferum.\ngaude, gaude, Emmanuel nascetur pro te, Israel.",
+                      @"Veni, veni, Adonai,\nqui populo in Sinai\nlegem dedisti vertice\nin maiestate gloriae.\ngaude, gaude, Emmanuel nascetur pro te, Israel."
+                  ]]
+             ]],
              [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
+             initWithTitle:@"Of the Father's Heart Begotten"
+             sections:@[
+                 [[WorkSection alloc]
+                  initWithHeader:@"Corde Natus ex Parentus"
+                  text:@[
+                      @"Corde natus ex parentis ante mundi exordium\nA et O cognominatus, ipse fons et clausula\nomnium quae sunt, fuerunt, quaeque post futura sunt.",
+                      @"Ipse iussit et creata, dixit ipse et facta sunt,\nterra, caelum, fossa ponti, trina rerum machina,\nquaeque in his vigent sub alto solis et lunae globo.",
+                      @"Corporis formam caduci, membra morti obnoxia\ninduit, ne gens periret primoplasti ex germine,\nmerserat quem lex profundo noxialis tartaro.",
+                      @"O beatus ortus ille, virgo cum puerpera\nedidit nostram salutem, feta Sancto Spiritu,\net puer redemptor orbis os sacratum protulit.",
+                      @"Psallat altitudo caeli, psallite omnes angeli,\nquidquid est virtutis usquam psallat in laudem Dei,\nnulla linguarum silescat, vox et omnis consonet.",
+                      @"Ecce, quem vates vetustis concinebant saeculis,\nquem prophetarum fideles paginae spoponderant,\nemicat promissus olim; cuncta conlaudent eum.",
+                      @"Macte iudex mortuorum, macte rex viventium,\ndexter in Parentis arce qui cluis virtutibus,\nomnium venturus inde iustus ultor criminum.",
+                      @"Te senes et te iuventus, parvulorum te chorus,\nturba matrum, virginumque, simplices puellulae,\nvoce concordes pudicis perstrepant concentibus.",
+                      @"Tibi, Christe, sit cum Patre hagioque Pneumate\nhymnus, decus, laus perennis, gratiarum actio,\nhonor, virtus, victoria, regnum aeternaliter."
+                  ]]
+             ]],
              [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
+             initWithTitle:@"Requiem"
+             sections:@[
+                 [[WorkSection alloc]
+                  initWithHeader:@"Introitus"
+                  text:@[
+                      @"Requiem aeternam dona ets, Domine,\net lux perpetua luceat ets.\nTe decet hymnus, Deus, in Sion,\net tibi reddetur votum in Jerusalem.\nExaudi orationem meam,\nad te omnis caro veniet.\nRequiem aeternam dona ets, Domine,\net lux perpetua luceat ets."
+                  ]],
+                 [[WorkSection alloc]
+                  initWithHeader:@"Kyrie"
+                  text:@[
+                      @"Kyrie eleison.\nChriste eleison.\nKyrie eleison."
+                  ]],
+                 [[WorkSection alloc]
+                  initWithHeader:@"Sequentia"
+                  text:@[
+                      @"Dies irae, dies illa\nSolvet saeclum in favilla,\nTeste David cum Sibylla.",
+                      @"Quantus tremor est futurus\nQuando judex est venturus\nCuncta stricte discussurus.",
+                      @"Tuba mirum spargens sonum\nPer sepulcra regionum\nCoget omnes ante thronum.",
+                      @"Mors slopebit et natora\nCum resurget creatura\nJudicanti responsura.",
+                      @"Liber scriptus proferetur\nIn quo totum continetur,\nUnde mundus judicetur.",
+                      @"Judex ergo cum sedebit\nQuidquid latet apparebit,\nNil inultum remanebit.",
+                      @"Quid sum miser tunc dicturus,\nQuem patronum togaturus,\nCum vix justus sit securus?",
+                      @"Rex tremendae majestatis,\nQui salvandos salvas gratis,\nSalve me, fons pietatis.",
+                      @"Recordare, Jesu pie,\nQuod sum causa tuae viae,\nNe me perdas ilia die.",
+                      @"Quaerens me sedisti lassus,\nRedemisti crucem passus,\nTamus labor non sit cassus.",
+                      @"Juste judex ultionis\nDonum fac remissionis\nAnte diem rationis.",
+                      @"lngemisco tamquam reus,\nCulpa rubet vultus meus,\nSupplicanti parce, Deus.",
+                      @"Qui Mariam absolvisti\nEt latronem exaudisti,\nMihi quoque spem dedisti.",
+                      @"Preces meae non sum dignae,\nSed tu bonus fac benigne,\nNe perenni cremet igne.",
+                      @"Inter oves locurn praesta,\nEt ab haedis me sequestra,\nStatuens in parle dextra.",
+                      @"Confutatis maledictis\nFlammis acribus addictis,\nVoca me cum benedictis.",
+                      @"Oro supplex et acclinis,\nCor contritum quasi cinis,\nGere curam mei finis.",
+                      @"Lacrimosa dies ilia\nQua resurget ex favilla\nJudicandus homo reus.\nHuic ergo parce, Deus,\nPie Jesu Domine,\nDona els requiem."
+                  ]],
+                 [[WorkSection alloc]
+                  initWithHeader:@"Offertorium"
+                  text:@[
+                      @"Domine, Jesu Christe, Rex gloriae,\nlibera animas omniurn fidelium defunctorum\nde poenis inferni, et de prof undo lacu:\nlibera cas de ore leonis,\nne absorbeat eas tartarus, ne cadant in obscurum,",
+                      @"Sed signifer sanctus Michael\nrepraesentet eas in lucem sanctam,\nquam olim Abrahae promisisti\net semini ejus.",
+                      @"Hostias et preces, tibi, Domine,\nlaudis offerimus:\ntu suscipe pro animabus illis,\nquarum hodie memoriam facimus:\nfac eas, Domine, de morte Iransire ad vitam,\nquam olim Abrahae promisisti\net semini ejus."
+                  ]],
+                 [[WorkSection alloc]
+                  initWithHeader:@"Sanctus"
+                  text:@[
+                      @"Sanctus\nSanctus. Sanctus, Sanctus,\nDominus Deus Sabaoth!\nPleni suni coeli et terra gloria tua.\nOsanna in excelsis."
+                  ]],
+                 [[WorkSection alloc]
+                  initWithHeader:@"Benedictus"
+                  text:@[
+                      @"Benedictus qui venit in nomine Domini.\nOsanna in excelsis."
+                  ]],
+                 [[WorkSection alloc]
+                  initWithHeader:@"Agnus Dei"
+                  text:@[
+                      @"Agnus Dei, qui tollis peccata mundi,\ndona eis requiem.\nAgnus Dei, qui tollis peccata mundi,\ndona eis requiem sempiternam."
+                  ]],
+                 [[WorkSection alloc]
+                  initWithHeader:@"Communio"
+                  text:@[
+                      @"Lux aeterna luceat eis, Domine,\ncum sanctis mis in aeternum,\nquia pius es.\nRequiem aeternam dona eis, Domine,\net lux perpetua luceat eis,\ncum sanetis tuis in aeternum,\nquia plus es."
+                  ]]
+             ]],
              [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
+             initWithTitle:@"Stood the Mournful Mother"
+             sections:@[
+                 [[WorkSection alloc]
+                  initWithHeader:@"Stabat Mater Dolorosa"
+                  text:@[
+                      @"Stabat mater dolorosa iuxta crucem lacrimosa,\ndum pendebat filius;\ncuius animam gementem, contristatam et dolentem,\npertransivit gladius.",
+                      @"O quam tristis et afflicta fuit illa benedicta\nmater unigeniti,\nquae maerebat et dolebat et tremebat, cum videbat\nnati poenas inclyti.",
+                      @"Quis est homo qui non fleret, Christi matrem si videret\nin tanto supplicio?\nquis non posset contristari, piam matrem, contemplari\ndolentem cum filio?",
+                      @"Pro peccatis suae gentis vidit Iesum in tormentis\net flagellis subditum:\nvidit suum dulcem natum morientem desolatum,\ndum emisit spiritum.",
+                      @"Eia mater, fons amoris, me sentire vim doloris\nfac ut tecum lugeam;\nfac ut ardeat cor meum, in amando Christum Deum\nut sibi complaceam."
+                  ]]
+             ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Ye Choirs of New Jerusalem"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Chorus Novae Ierusalem"
                    text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@"The Requiem - Mozart"
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@"Introitus"
-                   text:@[
-                       @"Requiem aeternam dona ets, Domine,\net lux perpetua luceat ets.\nTe decet hymnus, Deus, in Sion,\net tibi reddetur votum in Jerusalem.\nExaudi orationem meam,\nad te omnis caro veniet.\nRequiem aeternam dona ets, Domine,\net lux perpetua luceat ets."
-                   ]],
-                  [[WorkSection alloc]
-                   initWithHeader:@"Kyrie"
-                   text:@[
-                       @"Kyrie eleison.\nChriste eleison.\nKyrie eleison."
-                   ]],
-                  [[WorkSection alloc]
-                   initWithHeader:@"Sequentia"
-                   text:@[
-                       @"Dies irae, dies illa\nSolvet saeclum in favilla,\nTeste David cum Sibylla.",
-                       @"Quantus tremor est futurus\nQuando judex est venturus\nCuncta stricte discussurus.",
-                       @"Tuba mirum spargens sonum\nPer sepulcra regionum\nCoget omnes ante thronum.",
-                       @"Mors slopebit et natora\nCum resurget creatura\nJudicanti responsura.",
-                       @"Liber scriptus proferetur\nIn quo totum continetur,\nUnde mundus judicetur.",
-                       @"Judex ergo cum sedebit\nQuidquid latet apparebit,\nNil inultum remanebit.",
-                       @"Quid sum miser tunc dicturus,\nQuem patronum togaturus,\nCum vix justus sit securus?",
-                       @"Rex tremendae majestatis,\nQui salvandos salvas gratis,\nSalve me, fons pietatis.",
-                       @"Recordare, Jesu pie,\nQuod sum causa tuae viae,\nNe me perdas ilia die.",
-                       @"Quaerens me sedisti lassus,\nRedemisti crucem passus,\nTamus labor non sit cassus.",
-                       @"Juste judex ultionis\nDonum fac remissionis\nAnte diem rationis.",
-                       @"lngemisco tamquam reus,\nCulpa rubet vultus meus,\nSupplicanti parce, Deus.",
-                       @"Qui Mariam absolvisti\nEt latronem exaudisti,\nMihi quoque spem dedisti.",
-                       @"Preces meae non sum dignae,\nSed tu bonus fac benigne,\nNe perenni cremet igne.",
-                       @"Inter oves locurn praesta,\nEt ab haedis me sequestra,\nStatuens in parle dextra.",
-                       @"Confutatis maledictis\nFlammis acribus addictis,\nVoca me cum benedictis.",
-                       @"Oro supplex et acclinis,\nCor contritum quasi cinis,\nGere curam mei finis.",
-                       @"Lacrimosa dies ilia\nQua resurget ex favilla\nJudicandus homo reus.\nHuic ergo parce, Deus,\nPie Jesu Domine,\nDona els requiem."
-                   ]],
-                  [[WorkSection alloc]
-                   initWithHeader:@"Offertorium"
-                   text:@[
-                       @"Domine, Jesu Christe, Rex gloriae,\nlibera animas omniurn fidelium defunctorum\nde poenis inferni, et de prof undo lacu:\nlibera cas de ore leonis,\nne absorbeat eas tartarus, ne cadant in obscurum,",
-                       @"sed signifer sanctus Michael\nrepraesentet eas in lucem sanctam,\nquam olim Abrahae promisisti\net semini ejus.",
-                       @"Hostias et preces, tibi, Domine,\nlaudis offerimus:\ntu suscipe pro animabus illis,\nquarum hodie memoriam facimus:\nfac eas, Domine, de morte Iransire ad vitam,\nquam olim Abrahae promisisti\net semini ejus."
-                   ]],
-                  [[WorkSection alloc]
-                   initWithHeader:@"Sanctus"
-                   text:@[
-                       @"Sanctus\nSanctus. Sanctus, Sanctus,\nDominus Deus Sabaoth!\nPleni suni coeli et terra gloria tua.\nOsanna in excelsis."
-                   ]],
-                  [[WorkSection alloc]
-                   initWithHeader:@"Benedictus"
-                   text:@[
-                       @"Benedictus qui venit in nomine Domini.\nOsanna in excelsis."
-                   ]],
-                  [[WorkSection alloc]
-                   initWithHeader:@"Agnus Dei"
-                   text:@[
-                       @"Agnus Dei, qui tollis peccata mundi,\ndona eis requiem.\nAgnus Dei, qui tollis peccata mundi,\ndona eis requiem sempiternam."
-                   ]],
-                  [[WorkSection alloc]
-                   initWithHeader:@"Communio"
-                   text:@[
-                       @"Lux aeterna luceat eis, Domine,\ncum sanctis mis in aeternum,\nquia pius es.\nRequiem aeternam dona eis, Domine,\net lux perpetua luceat eis,\ncum sanetis tuis in aeternum,\nquia plus es."
+                       @"Chorus novae Ierusalem\nnovam meli dulcidinem\npromat colens cum sobriis\npaschale festum gaudiis,",
+                       @"Quo Christus, invictus leo,\ndracone surgens obruto,\ndum voce viva personat,\na morte functos excitat.",
+                       @"Quam devorarat improbus,\npraedam refudit tartarus;\ncaptivitate libera\nIesum sequuntur agmina.",
+                       @"Triumphat ille splendide,\net dignus amplitudine\nsoli polique patriam\nunam facit rem publicam.",
+                       @"Ipsum canendo supplices\nregem precemur milites\nut in suo clarissimo\nnos ordinet palatio.",
+                       @"Per saecla metae nescia\nPatri supremo gloria\nhonorque sit cum Filio\net Spiritu Paraclito."
                    ]]
               ]]
          ]],
