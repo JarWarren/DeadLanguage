@@ -45,10 +45,15 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     Source *source = SourceController.shared.sources[indexPath.row];
-    if (source.works.count > 1) {
-        [self performSegueWithIdentifier:@"toWorkSelection" sender:self];
+    NSLog(@"%@", self.splitViewController.viewControllers);
+    if (self.splitViewController.isCollapsed) {
+        if (source.works.count > 1) {
+            [self performSegueWithIdentifier:@"toWorkSelection" sender:self];
+        } else {
+            [self performSegueWithIdentifier:@"toReader" sender:self];
+        }
     } else {
-        [self performSegueWithIdentifier:@"toReader" sender:self];
+        [self replaceDetailViewWithSource:source];
     }
 }
 
@@ -64,6 +69,23 @@
         ReaderTableViewController *destination = segue.destinationViewController;
         destination.work = source.works[0];
     }
+}
+
+- (void)replaceDetailViewWithSource:(Source *)source {
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+    [self.splitViewController.viewControllers[1] viewWillDisappear:true];
+    if (source.works.count > 1) {
+        WorkSelectionTableViewController *destination = [storyboard instantiateViewControllerWithIdentifier:@"work"];
+        destination.source = source;
+        UINavigationController *navigationController = self.splitViewController.viewControllers[1];
+        [navigationController setViewControllers:@[destination]];
+    } else {
+        ReaderTableViewController *destination = [storyboard instantiateViewControllerWithIdentifier:@"reader"];
+        destination.work = source.works[0];
+        UINavigationController *navigationController = self.splitViewController.viewControllers[1];
+        [navigationController setViewControllers:@[destination]];
+    }
+    [self.splitViewController.viewControllers[1] viewWillAppear:true];
 }
 
 @end
