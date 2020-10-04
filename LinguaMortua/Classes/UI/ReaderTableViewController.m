@@ -9,6 +9,7 @@
 #import "ReaderTableViewController.h"
 #import "Work.h"
 #import "WorkSection.h"
+#import "SectionHeaderLabel.h"
 
 @interface ReaderTableViewController ()
 
@@ -27,14 +28,8 @@
 }
 
 - (UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
-    UILabel *headerLabel = [UILabel new];
-    headerLabel.text = self.work.sections[section].header;
-    headerLabel.textAlignment = NSTextAlignmentCenter;
-    headerLabel.numberOfLines = 0;
-    headerLabel.lineBreakMode = NSLineBreakByWordWrapping;
-    headerLabel.backgroundColor = UIColor.whiteColor;
-    headerLabel.font = [UIFont fontWithName:@"HiraMinProN-W3" size:16];
-    return headerLabel;
+    NSString *header = self.work.sections[section].header;
+    return [[SectionHeaderLabel alloc] initWithTitle:header];
 }
 
 - (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section {
