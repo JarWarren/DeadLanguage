@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7E23E607252995C80035DE7D /* SectionHeaderLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E23E606252995C80035DE7D /* SectionHeaderLabel.m */; };
 		7EC9A9342504B404001ED5A6 /* SourceTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC9A9332504B404001ED5A6 /* SourceTableViewCell.m */; };
 		7EFD987225042466008EED5E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD987125042466008EED5E /* AppDelegate.m */; };
 		7EFD987525042466008EED5E /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD987425042466008EED5E /* SceneDelegate.m */; };
@@ -24,6 +25,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7E23E605252995C80035DE7D /* SectionHeaderLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SectionHeaderLabel.h; sourceTree = "<group>"; };
+		7E23E606252995C80035DE7D /* SectionHeaderLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SectionHeaderLabel.m; sourceTree = "<group>"; };
 		7EC9A9322504B404001ED5A6 /* SourceTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceTableViewCell.h; sourceTree = "<group>"; };
 		7EC9A9332504B404001ED5A6 /* SourceTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SourceTableViewCell.m; sourceTree = "<group>"; };
 		7EFD986D25042466008EED5E /* LinguaMortua.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LinguaMortua.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -139,6 +142,8 @@
 				7EFD98A325044189008EED5E /* ReaderTableViewController.m */,
 				7EC9A9322504B404001ED5A6 /* SourceTableViewCell.h */,
 				7EC9A9332504B404001ED5A6 /* SourceTableViewCell.m */,
+				7E23E605252995C80035DE7D /* SectionHeaderLabel.h */,
+				7E23E606252995C80035DE7D /* SectionHeaderLabel.m */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -214,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EFD98A125044181008EED5E /* WorkSelectionTableViewController.m in Sources */,
+				7E23E607252995C80035DE7D /* SectionHeaderLabel.m in Sources */,
 				7EFD987825042466008EED5E /* MainViewController.m in Sources */,
 				7EFD987225042466008EED5E /* AppDelegate.m in Sources */,
 				7EFD989E250433F7008EED5E /* SourceController.m in Sources */,
