@@ -9,7 +9,6 @@
 #import <UIKit/UIKit.h>
 @class Work;
 
-
 @interface ReaderTableViewController : UITableViewController
 
 @property Work *work;

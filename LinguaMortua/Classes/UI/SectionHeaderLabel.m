@@ -12,19 +12,14 @@
 
 - (instancetype)initWithTitle:(NSString *)title {
     self = [super init];
+
     self.text = title;
-    self.textAlignment = NSTextAlignmentCenter;
-    self.numberOfLines = 0;
-    self.lineBreakMode = NSLineBreakByWordWrapping;
     self.font = [UIFont fontWithName:@"HiraMinProN-W3" size:16];
-    
-    bool isDarkMode = UITraitCollection.currentTraitCollection.userInterfaceStyle == UIUserInterfaceStyleDark;
-    UIColor *textColor = isDarkMode ? UIColor.whiteColor : UIColor.blackColor;
-    UIColor *backgroundColor = isDarkMode ? UIColor.blackColor : UIColor.whiteColor;
-    
-    self.textColor = textColor;
-    self.backgroundColor = backgroundColor;
-    
+    self.numberOfLines = 0;
+    self.textAlignment = NSTextAlignmentCenter;
+    self.lineBreakMode = NSLineBreakByWordWrapping;
+    self.backgroundColor = UIColor.systemBackgroundColor;
+
     return self;
 }
 

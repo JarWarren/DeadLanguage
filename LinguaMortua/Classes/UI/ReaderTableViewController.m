@@ -11,15 +11,10 @@
 #import "WorkSection.h"
 #import "SectionHeaderLabel.h"
 
-@interface ReaderTableViewController ()
-
-@end
-
 @implementation ReaderTableViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
     self.navigationItem.title = self.work.title;
 }
 
