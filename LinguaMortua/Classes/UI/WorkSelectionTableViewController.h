@@ -9,12 +9,8 @@
 #import <UIKit/UIKit.h>
 @class Source;
 
-NS_ASSUME_NONNULL_BEGIN
-
 @interface WorkSelectionTableViewController : UITableViewController
 
 @property Source *source;
 
 @end
-
-NS_ASSUME_NONNULL_END

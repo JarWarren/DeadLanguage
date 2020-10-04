@@ -11,10 +11,6 @@
 #import "Source.h"
 #import "Work.h"
 
-@interface WorkSelectionTableViewController ()
-
-@end
-
 @implementation WorkSelectionTableViewController
 
 - (void)viewDidLoad {
