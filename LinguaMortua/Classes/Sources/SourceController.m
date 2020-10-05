@@ -134,7 +134,7 @@
               initWithTitle:@"Of the same Jupiter's Thunderbolt"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@"De fulmine ipsius iovis audite"
+                   initWithHeader:@"De Fulmine Ipsius Iovis Audite"
                    text:@[
                        @"Dicitis o stulti: Iouis tonat, fulminat ipse.\n"
                        "Etsi paruulitas sic sensit, cur anni dicentes?\n"
@@ -168,7 +168,7 @@
               initWithTitle:@"Of the Septizodium and Stars"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@"De Septizonio et stellis"
+                   initWithHeader:@"De Septizonio et Stellis"
                    text:@[
                        @"De circulo zonae fallit uos imperitia uestra,\n"
                        "Ex eo quod forte Iouem experitis orandum.\n"
@@ -194,120 +194,271 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Sun and Moon"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Sole et Luna"
                    text:@[
-                       @""
+                       @"De Sole et Luna, licet sint praesentanea nobis,\n"
+                       "Erratis; quod ego prius, putatis oranda.\n"
+                       "Sunt quidem in astris, sed non sua sponte currunt\n"
+                       "Omnipotens illos, cum conderet omnia primum,\n"
+                       "Locauitque ibidem cum stellis quarta dierum.\n"
+                       "Errorem antiquus quin cum ***\n"
+                       "Et quidem in legem iussit, ne quis illos adoret.\n"
+                       "Tot deos oratis, qui nihil de uita promittunt,\n"
+                       "Lex quorum in terra non est, nec ipsi praedicti\n"
+                       "Uos autem seducunt sacerdotes pauci <inanes>\n"
+                       "Numina qui dicunt aliquid morituro prodesse.\n"
+                       "Accedite legis <codicem> et di<s>cite uerum."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Mercury"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Mercurius"
                    text:@[
-                       @""
+                       @"Mercurius uester fiat cum arabylo depictus\n"
+                       "Et galea et planta, pinnatus et cetera nudus.\n"
+                       "Rem uideo miram, deum <cum> saccello uolare:\n"
+                       "Currite pauperculi, cum gremio quo uolat ille,\n"
+                       "Ut sacculum effundat: uos extunc estote parati.\n"
+                       "Respicite pictum: quando uobis hic ab alto\n"
+                       "Iactabit nummos, uos tunc saltate securi.\n"
+                       "Uane, non insanis, colere deos pictos in axe?\n"
+                       "Si uiuere recte nescis, cum besteis perge morari."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Neptune"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Neptunus"
                    text:@[
-                       @""
+                       @"Neptunum facitis deum ex Saturno pronatum,\n"
+                       "Et tridentem regit, ut pisces suffigere possit.\n"
+                       "Paret esse deum + cumerale illi parate!\n"
+                       "Troianis non ipse cum Apolline muros eduxit?\n"
+                       "Unde deus factus inops cimentarius ille?\n"
+                       "Non Cyclopem genuit monstrum? non moechus et ipse?\n"
+                       "Uiuere non poterat de suo, quod structura<m> gerebat.\n"
+                       "Sic genuit generatus, qui fuit iam mortuus olim."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Apollo the False Fortuneteller"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Apollo Sortilegus Falsus"
                    text:@[
-                       @""
+                       @"Apollinem facitis citharoedum atque diuinum.\n"
+                       "Primum de moechia natus in insula Delo,\n"
+                       "Oblata mercede postmodum structura<s> secutus\n"
+                       "Laomedonti regi Troianorum muros eduxit\n"
+                       "Locauitque sese, quem deum seducti putatis;\n"
+                       "Ossibus cuius amor Cassandrae flagrauit,\n"
+                       "Subdole quem lusit uirgo, falliturque diuinus\n"
+                       "Officio uerbenis <is> potuit scire bicorde<m>,\n"
+                       "Repudiatus enim discessit inde diuinus.\n"
+                       "Terruit hunc uirgo specie, quam ille deberet.\n"
+                       "Illa prior utique debuerat deum amasse.\n"
+                       "Lasciuientemque Daphnem sic coepit amare.\n"
+                       "Et tamen insequitur, dum uult uiolare puellam:\n"
+                       "Gratis amat stultus, nec potuit consequi cursum.\n"
+                       "Uel, si deus erat, occurreret illi per auras:\n"
+                       "Sub tectis illa prior uenit remansitque diuinus.\n"
+                       "Fallit uos genus hominum, nam improbi isti fuerunt.\n"
+                       "A primitia quoque pecora pauisse refertur.\n"
+                       "Lusibus in positis dum mitteret discum in altum,\n"
+                       "Sublapsum non potuit retinere prostrauit amicum:\n"
+                       "Ultimus ille dies fuit Hyacinthi sodalis.\n"
+                       "Si diuinus erat, mortem praecessisset amici."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Father Liber Bacchus"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Liber Pater Bacchus"
                    text:@[
-                       @""
+                       @"Liberum patrem certe bis genitum dicitis ipsi.\n"
+                       "In India natus ex Ioue Proserpina primum\n"
+                       "Belligerans contra Titanas profuso cruore\n"
+                       "Expirauit enim sicut ex mortalibus unus.\n"
+                       "Rursus flato suo redditus in altero uentre.\n"
+                       "Percipit hoc Semele iterum Iouis altera moecha,\n"
+                       "Absciso cuius utero prope partu defunctae\n"
+                       "Tollitur et datur Niso nutriendus alumnus.\n"
+                       "Ex eo bis natus Dionisius ille uocatur,\n"
+                       "Religio cuius in uacuo falsa curatur.\n"
+                       "Bacchantur et illi, qualis nunc ipsi uidentur,\n"
+                       "Aut pediculones mineruae omnisque scitoris.\n"
+                       "Conspirant in malo, proludunt fincto furore,\n"
+                       "Ceteros ut fallant dicturos numen adesse.\n"
+                       "Huic manifeste rudes homines suille uiuentes\n"
+                       "Uino permutati, primo quod expresserat ille,\n"
+                       "Sub ludicro suo honorem illi dedere."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Unconquered One"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Invictus"
                    text:@[
-                       @""
+                       @"Inuictus de petra natus si deus habetur,\n"
+                       "Nunc ergo reticeo; uos de istis date priorem!\n"
+                       "Uicit petra deum, quaerendus est petrae creator.\n"
+                       "Insuper et furem adhuc depingitis esse,\n"
+                       "Cum, si deus esset, utique non furto uiuebat.\n"
+                       "Terrenus utique fuit et monstruosa natura\n"
+                       "Uertebatque boues alienos semper in antris\n"
+                       "Sicut et Cacus Uulcani filius ille."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Sylvanus"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Silvanus"
                    text:@[
-                       @""
+                       @"Siluanus unde deus iterum apparuit esse?\n"
+                       "Inde forte placet, eo quod bene fistula cantat?\n"
+                       "Lar igitur quando? lignum nam forte non esset.\n"
+                       "Uenalem emisti dominum, cum tu ipse sis illi.\n"
+                       "Aspice, deficit lignum! quid illi debetur?\n"
+                       "Non te pudet, stulte, tales adorare tabellas?\n"
+                       "Unum quaere Deum, qui post mortem uiuere dicit!\n"
+                       "Secede ab istis, qui sunt biothanati facti."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Hercules"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Hercles"
                    text:@[
-                       @""
+                       @"Hercules quod monstrum Auentini montis elisit\n"
+                       "Euandri qui solitus erat armenta furare,\n"
+                       "Rustica mens hominum, indocilis quoque, pro laude\n"
+                       "Cum gratias agere uellent, absentis Tonantis\n"
+                       "Laetandas aras in memoriam sibi fecerunt.\n"
+                       "Ex eo porrexit, de uetusto more colatur.\n"
+                       "Sed deus hic non est, licet fuit fortis in armis."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Gods and Goddesses"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Dis Deabusque"
                    text:@[
-                       @""
+                       @"Dicitis esse deos, qui sunt manifeste cruenti,\n"
+                       "Et dicitis fata genesis adscribere nobis?\n"
+                       "Dicite nunc ergo, quibus primum sacra ferantur:\n"
+                       "Inter utrumque uias mors inmatura uagatur.\n"
+                       "Si tribuunt fata genesis, cur deum oratis?\n"
+                       "Deciperis, uane, qui Manes quaeris orare,\n"
+                       "Et qui fabricantur dominos tibi nuncupas esse.\n"
+                       "Aut feminas quoque nescio quas deas oratis,\n"
+                       "Bellonam et Nemesim, deas Furinam, Caelestem,\n"
+                       "Uirginis, et Uenerem, cui coniuges uestrae delumbant.\n"
+                       "Sunt alia praeterea daemonia <procul a> fanis,\n"
+                       "Quae nec numerantur adhuc et in collo feruntur,\n"
+                       "Ut nec ipsi sibi possint rationem reddere pestis.\n"
+                       "Exportari magis in ultima terra deberent."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of Their Images"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Simulacris Eorum"
                    text:@[
-                       @""
+                       @"Deludunt uos pauci scelerati uates inanes,\n"
+                       "Extricare suam dum quaerunt ** uitam.\n"
+                       "Subornant aliis ex se sub mysteria falsum.\n"
+                       "Inde simulantes concussi numine quodam\n"
+                       "Maiestatemque canunt et se sub figura fatigant.\n"
+                       "Uidistis saepe Duellonarios, quali fragore\n"
+                       "Luxurias ineunt, dum furias fingere quaerunt,\n"
+                       "Aut cum dorsa sua allidunt parca bipinne,\n"
+                       "Cum doctrina sua cernant, quod cruore sanent.\n"
+                       "Respicite, quando non illos numina cogunt,\n"
+                       "Ipsi qui se primum conponunt integra mente;\n"
+                       "Sed stipem ut tollant ingenia talia quaerunt.\n"
+                       "Ex eo uidete, quoniam sunt omnia ficta.\n"
+                       "Obumbrant populum supplicem, perituri ne credant.\n"
+                       "Res semel in uano de uetustate processit,\n"
+                       "Ut uaticinanti credatur prodita falsa;\n"
+                       "Maiestas autem illorum nulla locutust."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Ammydates and the Great God"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Ammudate et Deo Magno"
                    text:@[
-                       @""
+                       @"Diximus iam multa de superstitione nefanda,\n"
+                       "Et tamen exsequimur, ne quod praeterisse dicamur.\n"
+                       "Ammudatem qui suum cultores more colebant,\n"
+                       "Magnus erat illis, quando fuit aurum in aedem.\n"
+                       "Mittebant capita sub numine quasi praesenti.\n"
+                       "Uentum est ad summum, ut Caesar tolleret aurum:\n"
+                       "Deficit numen aut fugit aut transit in ignem.\n"
+                       "Auctor huius sceleris constat, qui formabat eundem.\n"
+                       "Tot uiros et magnos seduxit false prophetans,\n"
+                       "Et modo retacuit qui solebat esse diuinus.\n"
+                       "Erumpebat enim uocis quasi mente mutata,\n"
+                       "Tamquam illi deus ligni loqueretur in aurem.\n"
+                       "Dicite nunc ipsi, si non sunt numina falsa.\n"
+                       "Ex eo prodigio, quod perdidit, ille propheta\n"
+                       "Oblitus est iste prophetare, qui ante solebat.\n"
+                       "Monstra deo ista fincta sunt per uiniuoraces,\n"
+                       "Audacia quorum damnabilis numina fingit.\n"
+                       "Gestabantur enim, et aliut tale sigillum:\n"
+                       "Nunc et ipse silet, nec ullus de illo prophetat.\n"
+                       "O nimium <stulti>, sed uos ipsos perdere uultis."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Vain Nemesiaci"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Nemesiaci Suanis"
                    text:@[
-                       @""
+                       @"Non ignominium est uirum seduci prudentem\n"
+                       "Et colere talem aut Dianam dicere lignum?\n"
+                       "Mane ebrio, crudo, perituro creditis uno,\n"
+                       "Ex arte qui fincte loquitur, quod illi uidetur;\n"
+                       "Se uere deum agit, sibi uiscera poscit.\n"
+                       "Incopriat ciues unus detestabilis omnes\n"
+                       "Adplicuitque sibi similis collegio facto,\n"
+                       "Cum quibus historiam fingit, ut deum adornet.\n"
+                       "Ipse sibi nescit diuinare, ceteris audet.\n"
+                       "Succollat, quando libet, eum, et quando, deponit;\n"
+                       "Uertitur a se rotans cum ligno bifurci,\n"
+                       "Ac si putes illum adflatum numine ligni.\n"
+                       "Non deos uos colitis, quos isti false prophetant:\n"
+                       "Ipsos sacerdotes colitis in uano timentes.\n"
+                       "Sed si corde uiges, fuge iam sacraria mortis."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Titans"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Titanes"
                    text:@[
-                       @""
+                       @"Titanes uobis tutanos dicitis esse;\n"
+                       "Ita Mutas, Tacitas sub culmine uestro rogatis,\n"
+                       "Tot Lares aediculis, simulacra facta titano!\n"
+                       "Adoratis enim stulti malo leto defunctos,\n"
+                       "Non legem ipsorum legentes; non ipsi loquuntur,\n"
+                       "Et deos audetis eramine dicere fusos?\n"
+                       "Solueretis eos magis in uascula uobis."
                    ]]
               ]],
              [[Work alloc]
