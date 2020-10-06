@@ -15,5 +15,6 @@ Yes. Most of the included Latin sources are from the Medieval time period or ear
 ### Previews
 <p float="left">
   <img src="preview0.png" width="300" />
-  <img src="preview1.png" width="300" /> 
+  <img src="preview1.png" width="300" />
+  <img src="preview2.png" width="800" />
 </p>
