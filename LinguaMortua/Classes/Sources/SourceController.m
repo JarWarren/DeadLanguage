@@ -244,11 +244,7 @@
                        "Non Cyclopem genuit monstrum? non moechus et ipse?\n"
                        "Uiuere non poterat de suo, quod structuram gerebat.\n"
                        "Sic genuit generatus, qui fuit iam mortuus olim."
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@"Apollo the False Fortuneteller"
-              sections:@[
+                   ]],
                   [[WorkSection alloc]
                    initWithHeader:@"Apollo Sortilegus Falsus"
                    text:@[
@@ -663,7 +659,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Righteous Rise Again"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Iusti Res Urgunt"
@@ -685,7 +681,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Wicked and Unbelieving Rich Man"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Diviti Incredulo Malo"
@@ -712,7 +708,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Rich Men, Be Humble"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Divites Humiles Estote"
@@ -740,7 +736,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To Judges"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Iudicibus Sibi Placentibus"
@@ -772,7 +768,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To Self-Pleasers"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Sibi Placentibus"
@@ -795,7 +791,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To the Gentiles"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Gentilibus"
@@ -813,7 +809,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Moreover, to Ignorant Gentiles"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Item Gentilibus Ignaris"
@@ -842,7 +838,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Tree of Life and Death"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Of the Tree of Life and Death"
@@ -896,7 +892,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Fanatics Who Judaize"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Quid Iudæ Diant Fanatic?"
@@ -925,7 +921,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To the Jews"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Iudæis"
@@ -940,7 +936,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Also to the Jews"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Item Iudæis"
@@ -959,7 +955,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Again to the Same"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Iterum Ipsis"
@@ -1006,7 +1002,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Hidden and Holy People of the Almighty Christ, the Living God"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Populo Absconso Sancto Omnipotentis Christi Dei Vivi"
@@ -1062,7 +1058,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the End of this Age"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Sæculi Istius Fine"
@@ -1089,7 +1085,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the First Resurrection"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Resurrectione Prima"
@@ -1117,7 +1113,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Day of Judgement"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Die Iudicii"
@@ -1137,7 +1133,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To Catechumins"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Catecuminis"
@@ -1156,7 +1152,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To the Faithful"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Fidelibus"
@@ -1172,7 +1168,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"O Faithful, Beware of Evil"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Fideles Cavete Malum"
@@ -1198,7 +1194,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To Penitents"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Pænitentibus"
@@ -1219,7 +1215,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Who Have Apostitized from God"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Qui Apostatauerunt Deo"
@@ -1247,7 +1243,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of Infants"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Infantibus"
@@ -1266,7 +1262,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Deserters"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Desertores"
@@ -1284,7 +1280,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To the Soldiers of Christ"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Militibus Christi"
@@ -1308,7 +1304,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of Fugitives"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Refugis"
@@ -1325,7 +1321,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Seed of the Tares"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Lolii Semine"
@@ -1346,7 +1342,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To the Dissembler"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Dissimulatori"
@@ -1367,7 +1363,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"That Worldly Things are Absolutely to be Avoided"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Sæcularia in Totum Fugienda"
@@ -1400,7 +1396,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"That the Christian Should be Such"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Christianum Talem Esse"
@@ -1428,7 +1424,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To the Matrons of the Church of the Living God"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Matronis Ecclesiæ Dei Vivi"
@@ -1463,10 +1459,10 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To the Same Again"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"To the Same Again"
                    text:@[
                        @"Audiuisti uocem, quae uis Christiana manere,\n"
                        "Beatus Paulus qualiter rogare praecepit.\n"
@@ -1494,7 +1490,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"In the Church to All People of God"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"In Ecclesia Omni Populo Dei"
@@ -1525,7 +1521,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To Him Who Wishes for Martyrdom"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Zela Concupiscenciæ"
@@ -1554,7 +1550,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Daily War"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Bellum Cottidianum"
@@ -1579,7 +1575,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of the Zeal of Concupiscence"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Zelo Concupscenciæ"
@@ -1607,7 +1603,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Who Give from Evil"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Qui de Malo Donant"
@@ -1630,7 +1626,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of a Deceitful Peace"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"De Pace Subdola"
@@ -1648,11 +1644,7 @@
                        "O malo nutriri in occisione praedicti!\n"
                        "Laudatis pacem subdolam et uobis iniquam.\n"
                        "Alterius facti milites, non Christi, peristis."
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
+                   ]],
                   [[WorkSection alloc]
                    initWithHeader:@"Lectoribus"
                    text:@[
@@ -1669,7 +1661,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To Ministers"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Ministris"
@@ -1686,7 +1678,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"To God's Shepherds"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Pastoribus Dei"
@@ -1707,7 +1699,7 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"I Speak to the Elder-Born"
               sections:@[
                   [[WorkSection alloc]
                    initWithHeader:@"Maioribus Nati Dico"
