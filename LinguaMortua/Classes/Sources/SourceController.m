@@ -427,7 +427,7 @@
               initWithTitle:@"The Vain Nemesiaci"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@"Nemesiaci Suanis"
+                   initWithHeader:@"Nemesiaci Vanis"
                    text:@[
                        @"Non ignominium est uirum seduci prudentem\n"
                        "Et colere talem aut Dianam dicere lignum?\n"
@@ -462,66 +462,204 @@
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Montesiani"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Montesianis"
                    text:@[
-                       @""
+                       @"Monteses deos dicitis, dominentur in aruo\n"
+                       "Obscurati malo aliena mente iurantes.\n"
+                       "Nam si purus animus et mens serena maneret\n"
+                       "Tu tibi de illis ipsi disputare deberes.\n"
+                       "Excordaris homo, si putas, ut isti te saluent\n"
+                       "Seu regant, seu minuant, nisi quod tu fani decurris.\n"
+                       "Iustitiam legis quaere magis quam illa, salutis\n"
+                       "Auxilium portat et fieri dicit aeternum.\n"
+                       "Nam quicquid in uano sequeris, per tempora gaudes\n"
+                       "In breui laetaris et postmodum plangis in imis:\n"
+                       "Subtrahe te illis, si uis resurgere Christo."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"The Dullness of the Age"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Hebetudo Sæculi"
                    text:@[
-                       @""
+                       @"Heu doleo, ciues, sic uos hebetari de mundo!\n"
+                       "Excurrit alius ad sortis, aues aspicit alter\n"
+                       "Belantum cruore fuso malus inspicit alter\n"
+                       "Et cupit audire responsa bona crudelis,\n"
+                       "Tot duces et reges ubi sunt consulti de uita.\n"
+                       "Uel portenta sua scisse quo profuit illi?\n"
+                       "Di<s>cite quaeso bonum, ciues, simulacra cauete:\n"
+                       "Omnipotentis enim in legem quaerite cuncti.\n"
+                       "Sic ipsi conplacuit domino dominorum in altis\n"
+                       "Ad probationem nostram daemones in mundo uag<ar>i.\n"
+                       "-"
+                       "Caelestis fieri qui relinquant aras eorum.\n"
+                       "Unde non hoc curo disputari paruo libello:\n"
+                       "Lex docet in medio; oror consulete pro uobis!\n"
+                       "In duas intrastis uias: condiscite rectam."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Of Those Who are Everywhere Ready"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Ubique Paratis"
                    text:@[
-                       @""
+                       @"Dum uentri seruis, innocentem esse te dicis,\n"
+                       "Et quasi communis facis te ubique paratum.\n"
+                       "Uae tibi, stulte homo, mortem circumspicis ipse,\n"
+                       "Barbaro de more sine lege uiuere quaeris:\n"
+                       "Ipse tibi figis asciam in crure de uerbo.\n"
+                       "Qui simplicem fingis, simpliciter uiue cum isto.\n"
+                       "Uiuere te credis, dum uentrem cupis implere.\n"
+                       "Exiguus tua in domo resedes, praue,\n"
+                       "Paratus ad epulas, et refugis cenae praecepta.\n"
+                       "Aut quia discredis Deum iudicare defunctos,\n"
+                       "Rectorem caeli facis te tu forte pro illo?\n"
+                       "Aspicis ad uentrem, quasi tu sis prouidus illi.\n"
+                       "Tu modo profanus, modo sanctus esse uideris.\n"
+                       "In supplicem prodis Dei sub aspectu, tyranne.\n"
+                       "Senties in fatis, cuias modo legem inanis."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Those Who Live Between the Two"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Inter Utrumque Viventibus"
                    text:@[
-                       @""
+                       @"Inter utrumque putans dubie uiuendo carere\n"
+                       "Nudatus a lege, decrepitus luxu praecedis.\n"
+                       "Tot, uane, <luxurias> prospicis; quid quaeris iniqua?\n"
+                       "Et quidquid egistis, istinc remanere defuncto\n"
+                       "Respicite! Stulte, non eras, et ecce uideris!\n"
+                       "Unde processisti nescis nec unde nutriris.\n"
+                       "Tu Deum excelsum fugis tuae uitae benignum\n"
+                       "Rectoremque tuum, qui te magis uiuere uelit;\n"
+                       "Uertis te in faciem et dorsum Deo remittis,\n"
+                       "Mergis te in tenebris, dum putas te in lucem morari.\n"
+                       "Quid in sinagoga decurris saepe bifarius?\n"
+                       "Exis inde foris, iterum tu fana requiris;\n"
+                       "Uis inter utrumque uiuere, sed inde peribis.\n"
+                       "Insuper et dicis: 'Quis est, qui a morte reuenit\n"
+                       "Ut credamus ei, quoniam ibi poenas aguntur?'\n"
+                       "Ea non sunt sic, ut tu putas esse, maligne!\n"
+                       "Nam illique prodest post funera, recte qui uixit,\n"
+                       "Tu tamen mox moreris, duceris in loco maligno;\n"
+                       "In Christo credentes autem in loco benigno,\n"
+                       "Blanditurque quibus haeret amoenitas illa.\n"
+                       "Uos autem dubios uiuos sine corpore poena\n"
+                       "Suscitat in faciem tortoris sero clamare."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Those Who Fear and Not Believe"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Qui Imentet? Non Credent"
                    text:@[
-                       @""
+                       @"Quamdiu, stulte homo, Christum cognoscere non uis?\n"
+                       "Uitas agrum pinguem et stereli semina iactas.\n"
+                       "In silua manere quaeris, ubi latro moratur.\n"
+                       "Ingredere iam nunc totiens inuitatus in aula:\n"
+                       "Matura iam messis, tempus totidemque paratum,\n"
+                       "Ecce modo mete, quodsi non te paenitet inde.\n"
+                       "Nunc, si non habes, collige; uindemia uenit;\n"
+                       "Tempus adest uitae credenti tempore mortis.\n"
+                       "Est Dei lex prima fundamentum posterae legis,\n"
+                       "Teque designabat, crederes in lege secunda;\n"
+                       "Nec minus et ipsos et ex ipsa sibi prudentes\n"
+                       "Obstupe iam factus ora tu credere Christo,\n"
+                       "Nam testamentum uetus de isto proclamat.\n"
+                       "Credere nun<c> opus est, tantum in isto defunctum\n"
+                       "Resurgere posse <et> uiuere tempore toto.\n"
+                       "Ergo si quis ea discredis esse futura\n"
+                       "Dummodo uincetur reus in morte secunda,\n"
+                       "Euentura canam paucis in isto libello\n"
+                       "Nam cognosci potest, ubi sit spes uitae ponenda.\n"
+                       "Tamen uos adhortor quantocius credere Christo."
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"Those to Resist the Law of Christ the Living God"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Repugnantibus Adversus Legem Christi Dei Vivi"
                    text:@[
-                       @""
+                       @"Respuis, infelix, bonum disciplinae caelestis\n"
+                       "Et ruis in mortem, dum uis sine freno uagari.\n"
+                       "Perdunt te luxuriae et breuia gaudia mundi,\n"
+                       "Unde sub inferno cruciaberis tempore toto.\n"
+                       "Gaudia sunt uana, quibus oblectaris inepte.\n"
+                       "Non illa te reddunt hominem fuisse defunctum.\n"
+                       "Anni te non possunt iam triginta reddere doctum?\n"
+                       "Nescius si primum errasti, respice canum.\n"
+                       "Tu putas nunc uitam isti te perfrui laetum?\n"
+                       "Iniurias, lites ibi sunt et damna diurnum,\n"
+                       "Bella uel infanda, fraudes, cum sanguine furta,\n"
+                       "Ulceribus corpus uexatur gemiturque, ploratur,\n"
+                       "Seu luis inuadit aut longo morbo teneris,\n"
+                       "Aut natis orbaris, aut perdita coniugula defles;\n"
+                       "Destruitur totum, ruunt dignitatis ab alto;\n"
+                       "Ureris pauperie dupliciter certe si languis:\n"
+                       "Et dicis uitam, ubi uitrea uita moraris?\n"
+                       "Respice iam tandem hoc tempus inritum esse;\n"
+                       "Sed in futuro tibi spes est sine dolo uiuendi.\n"
+                       "Uiuere uoleba<n>t utique paruoli rapti,\n"
+                       "Sed uita priuati iuuenes senescere forte,\n"
+                       "Lautities diues perfrui quia ipse parabat;\n"
+                       "Et tamen inuiti reli<n>quimus omnia mundo.\n"
+                       "Gens et ego fui peruersa mente moratus\n"
+                       "Et uitam istius saeculi coram esse putabam\n"
+                       "Mortemque similiter sicut uos iudicabam adesse,\n"
+                       "Cum semel exisset animus, perisse defunctum.\n"
+                       "Haec autem sic non sunt; sed conditor orbis et auctor\n"
+                       "Requisiuit enim fratrem a fratre peremptum:\n"
+                       "Impie, dic, inquit, ubinam frater? Ille negauit.\n"
+                       "Sanguis enim fratris ad me perclamauit in altum.\n"
+                       "Torqueris, uideo, ubi nil sentire putabas,\n"
+                       "Ille autem uiuet et loca dextera tenet,\n"
+                       "Delicias fruitur, quas tu perdidisti, nefande!\n"
+                       "Et cum renouasti saeculum, et ille praegressus\n"
+                       "Iam <in>mortalis erit; nam tu sub tartara planges.\n"
+                       "Uiuet certe Deus, qui defunctos uiuere fecit\n"
+                       "Innocuisque bonis ut reddat praemia digna,\n"
+                       "Uesanis autem et impiis tartara saeua.\n"
+                       "Incipe sentire iudicia Dei, seducte!"
                    ]]
               ]],
              [[Work alloc]
-              initWithTitle:@""
+              initWithTitle:@"O Fool, Thou Dost Not Die to God"
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Stulte Non Permoreris Deo"
                    text:@[
-                       @""
+                       @"Stulte, non permoreris nec mortuus effugis actus,\n"
+                       "Tu licet disponas nihil te sentire defuncto.\n"
+                       "Uinceris, insipiens: uiuit Deus conditor orbis,\n"
+                       "Legitima cuius clamat ualere defuncto.\n"
+                       "Tu autem dum praeceps sine Deo uiuere quaeris,\n"
+                       "Extinctum in fatis iudicas aut fatale credis.\n"
+                       "Non ita disposuit, ut tu putas, Deus aeternus,\n"
+                       "Obliuitos esse mortuos de gesto priore.\n"
+                       "Nunc nobis imperita fecit receptacula mortis,\n"
+                       "Post cineres autem nostros uidebimus illa.\n"
+                       "Erue te, stulte, qui putas, post funera non sis.\n"
+                       "Rectorem dominumque tuum nihil posse fecisti.\n"
+                       "Mors autem in uacuum non est, si corde retractes.\n"
+                       "Optandum noscas, nam sero senties illum.\n"
+                       "Rector eras carnis, non te certe caro regebat;\n"
+                       "Exemptus ab illa reconditur illa tuorum.\n"
+                       "Recte mortalis homo separatur a carne.\n"
+                       "Idcirco nec poterint oculi mortales aequare,\n"
+                       "Sic habet abyssus noster de Dei secreta.\n"
+                       "Da nunc ergo Deo, fragilis dum moreris, honorem,\n"
+                       "Et crede, quod Christus uiuum te de mortuo reddit.\n"
+                       "Omnipotenti laudes in ecclesia reddere debes."
                    ]]
               ]],
              [[Work alloc]
