@@ -109,7 +109,7 @@
                        "Terroribus actus, sed quia deus non erat ille,\n"
                        "Uiscera natorum rabie monstruosa sumebat.\n"
                        "Rex fuit in terris, in monte natus Olympo,\n"
-                       "Nec erat diuinus; sic deum esse diceba<n>t.\n"
+                       "Nec erat diuinus; sic deum esse dicebant.\n"
                        "Uenit inops animi, lapidem pro filio sorbsit:\n"
                        "Sic deus euasit, dicitur modo Iuppiter ille."
                    ]]
@@ -139,21 +139,21 @@
                        @"Dicitis o stulti: Iouis tonat, fulminat ipse.\n"
                        "Etsi paruulitas sic sensit, cur anni dicentes?\n"
                        "Fuistis infantes: numquid et semper eritis?\n"
-                       "Uersari inmaturum infantia non capit <usus>\n"
+                       "Uersari inmaturum infantia non capit usus\n"
                        "Lusus puerilis cessit: sic et corda recedant;\n"
                        "Moribus utique consilia uestra debentur.\n"
                        "Insipiens ergo Iouem tonitruare tu credis\n"
                        "Natum hic in terris et lacte caprino nutritum;\n"
-                       "Ergo si illum deuorasset <pater> Saturnus,\n"
+                       "Ergo si illum deuorasset pater Saturnus,\n"
                        "In istis temporibus quis pluebat illo defuncto?\n"
                        "Praesertim mortali patre deus nasci credatur?\n"
                        "Saturnus in terris senuit et defecit in ipsis.\n"
                        "Illum non aliquis prophetauit ante pronasci.\n"
                        "Uel, si tonat ipse, lex ab ipso lata fuisset.\n"
-                       "Seducunt historiae, factus cum fue<rat ipse>.\n"
+                       "Seducunt historiae, factus cum fuerat ipse.\n"
                        "Ille autem in Cretam regnauit et ibi defecit.\n"
                        "Omnipotens uobis factus Semelis amator.\n"
-                       "Uix ipse modo similiter amaret, si uiuere<t> ille.\n"
+                       "Uix ipse modo similiter amaret, si uiueret ille.\n"
                        "Inpuros oratis et dicitis esse caelestes\n"
                        "Semine mortali natos de Gigantibus illis.\n"
                        "Auditis et legitis natum in terra fuisse:\n"
@@ -179,7 +179,7 @@
                        "Ipsis sideribus aut Mars qui cum ipsa deprehensus\n"
                        "Zelo maritali deus dominetur aduliscens?\n"
                        "O nimium stulti, qui putatis moechos ab astris\n"
-                       "Nascentes regere aut tota<m> mundi natura<m>.\n"
+                       "Nascentes regere aut totam mundi naturam.\n"
                        "In uulnera positi et ipsi sub fata uiuentes,\n"
                        "Obsceni, furiosi, bellatores, impii uitae,\n"
                        "Et filios totidem mortales illi fecere:\n"
@@ -208,9 +208,9 @@
                        "Et quidem in legem iussit, ne quis illos adoret.\n"
                        "Tot deos oratis, qui nihil de uita promittunt,\n"
                        "Lex quorum in terra non est, nec ipsi praedicti\n"
-                       "Uos autem seducunt sacerdotes pauci <inanes>\n"
+                       "Uos autem seducunt sacerdotes pauci inanes\n"
                        "Numina qui dicunt aliquid morituro prodesse.\n"
-                       "Accedite legis <codicem> et di<s>cite uerum."
+                       "Accedite legis codicem et discite uerum."
                    ]]
               ]],
              [[Work alloc]
@@ -221,7 +221,7 @@
                    text:@[
                        @"Mercurius uester fiat cum arabylo depictus\n"
                        "Et galea et planta, pinnatus et cetera nudus.\n"
-                       "Rem uideo miram, deum <cum> saccello uolare:\n"
+                       "Rem uideo miram, deum cum saccello uolare:\n"
                        "Currite pauperculi, cum gremio quo uolat ille,\n"
                        "Ut sacculum effundat: uos extunc estote parati.\n"
                        "Respicite pictum: quando uobis hic ab alto\n"
@@ -242,7 +242,7 @@
                        "Troianis non ipse cum Apolline muros eduxit?\n"
                        "Unde deus factus inops cimentarius ille?\n"
                        "Non Cyclopem genuit monstrum? non moechus et ipse?\n"
-                       "Uiuere non poterat de suo, quod structura<m> gerebat.\n"
+                       "Uiuere non poterat de suo, quod structuram gerebat.\n"
                        "Sic genuit generatus, qui fuit iam mortuus olim."
                    ]]
               ]],
@@ -254,12 +254,12 @@
                    text:@[
                        @"Apollinem facitis citharoedum atque diuinum.\n"
                        "Primum de moechia natus in insula Delo,\n"
-                       "Oblata mercede postmodum structura<s> secutus\n"
+                       "Oblata mercede postmodum structuras secutus\n"
                        "Laomedonti regi Troianorum muros eduxit\n"
                        "Locauitque sese, quem deum seducti putatis;\n"
                        "Ossibus cuius amor Cassandrae flagrauit,\n"
                        "Subdole quem lusit uirgo, falliturque diuinus\n"
-                       "Officio uerbenis <is> potuit scire bicorde<m>,\n"
+                       "Officio uerbenis is potuit scire bicordem,\n"
                        "Repudiatus enim discessit inde diuinus.\n"
                        "Terruit hunc uirgo specie, quam ille deberet.\n"
                        "Illa prior utique debuerat deum amasse.\n"
@@ -364,7 +364,7 @@
                        "Aut feminas quoque nescio quas deas oratis,\n"
                        "Bellonam et Nemesim, deas Furinam, Caelestem,\n"
                        "Uirginis, et Uenerem, cui coniuges uestrae delumbant.\n"
-                       "Sunt alia praeterea daemonia <procul a> fanis,\n"
+                       "Sunt alia praeterea daemonia procul a fanis,\n"
                        "Quae nec numerantur adhuc et in collo feruntur,\n"
                        "Ut nec ipsi sibi possint rationem reddere pestis.\n"
                        "Exportari magis in ultima terra deberent."
@@ -420,7 +420,7 @@
                        "Audacia quorum damnabilis numina fingit.\n"
                        "Gestabantur enim, et aliut tale sigillum:\n"
                        "Nunc et ipse silet, nec ullus de illo prophetat.\n"
-                       "O nimium <stulti>, sed uos ipsos perdere uultis."
+                       "O nimium stulti, sed uos ipsos perdere uultis."
                    ]]
               ]],
              [[Work alloc]
@@ -492,10 +492,10 @@
                        "Et cupit audire responsa bona crudelis,\n"
                        "Tot duces et reges ubi sunt consulti de uita.\n"
                        "Uel portenta sua scisse quo profuit illi?\n"
-                       "Di<s>cite quaeso bonum, ciues, simulacra cauete:\n"
+                       "Discite quaeso bonum, ciues, simulacra cauete:\n"
                        "Omnipotentis enim in legem quaerite cuncti.\n"
                        "Sic ipsi conplacuit domino dominorum in altis\n"
-                       "Ad probationem nostram daemones in mundo uag<ar>i.\n"
+                       "Ad probationem nostram daemones in mundo uagari.\n"
                        "-"
                        "Caelestis fieri qui relinquant aras eorum.\n"
                        "Unde non hoc curo disputari paruo libello:\n"
@@ -534,7 +534,7 @@
                    text:@[
                        @"Inter utrumque putans dubie uiuendo carere\n"
                        "Nudatus a lege, decrepitus luxu praecedis.\n"
-                       "Tot, uane, <luxurias> prospicis; quid quaeris iniqua?\n"
+                       "Tot, uane, luxurias prospicis; quid quaeris iniqua?\n"
                        "Et quidquid egistis, istinc remanere defuncto\n"
                        "Respicite! Stulte, non eras, et ecce uideris!\n"
                        "Unde processisti nescis nec unde nutriris.\n"
@@ -575,8 +575,8 @@
                        "Nec minus et ipsos et ex ipsa sibi prudentes\n"
                        "Obstupe iam factus ora tu credere Christo,\n"
                        "Nam testamentum uetus de isto proclamat.\n"
-                       "Credere nun<c> opus est, tantum in isto defunctum\n"
-                       "Resurgere posse <et> uiuere tempore toto.\n"
+                       "Credere nunc opus est, tantum in isto defunctum\n"
+                       "Resurgere posse et uiuere tempore toto.\n"
                        "Ergo si quis ea discredis esse futura\n"
                        "Dummodo uincetur reus in morte secunda,\n"
                        "Euentura canam paucis in isto libello\n"
@@ -609,10 +609,10 @@
                        "Et dicis uitam, ubi uitrea uita moraris?\n"
                        "Respice iam tandem hoc tempus inritum esse;\n"
                        "Sed in futuro tibi spes est sine dolo uiuendi.\n"
-                       "Uiuere uoleba<n>t utique paruoli rapti,\n"
+                       "Uiuere uolebant utique paruoli rapti,\n"
                        "Sed uita priuati iuuenes senescere forte,\n"
                        "Lautities diues perfrui quia ipse parabat;\n"
-                       "Et tamen inuiti reli<n>quimus omnia mundo.\n"
+                       "Et tamen inuiti relinquimus omnia mundo.\n"
                        "Gens et ego fui peruersa mente moratus\n"
                        "Et uitam istius saeculi coram esse putabam\n"
                        "Mortemque similiter sicut uos iudicabam adesse,\n"
@@ -625,7 +625,7 @@
                        "Ille autem uiuet et loca dextera tenet,\n"
                        "Delicias fruitur, quas tu perdidisti, nefande!\n"
                        "Et cum renouasti saeculum, et ille praegressus\n"
-                       "Iam <in>mortalis erit; nam tu sub tartara planges.\n"
+                       "Iam inmortalis erit; nam tu sub tartara planges.\n"
                        "Uiuet certe Deus, qui defunctos uiuere fecit\n"
                        "Innocuisque bonis ut reddat praemia digna,\n"
                        "Uesanis autem et impiis tartara saeua.\n"
@@ -666,9 +666,800 @@
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Iusti Res Urgunt"
                    text:@[
-                       @""
+                       @"Iustitia et bonitas, pax et patientia uera\n"
+                       "Uiuere post fata faciunt et quaeri de actu:\n"
+                       "Subdola mens autem, innoxia, perfida, praua\n"
+                       "Tollit se in parte et fera mente moratur.\n"
+                       "Impie, nunc audi, qui uis malefacta lucrari:\n"
+                       "Respice terrenos iudices, in corpore qui nunc\n"
+                       "Excruciant poenis diros: aut ferro parantur\n"
+                       "Supplicia meritis aut longo carcere flere.\n"
+                       "Ultime tu speras Deum inridere caelestem\n"
+                       "Rectoremque poli, per quem sunt omnia facta?\n"
+                       "Grassaris, insanis, detractas nunc et Dei nomen?\n"
+                       "Unde non effugies, poenam post fata qui ponet.\n"
+                       "Nunc uolo sis cautus, ne uenias ignis in aestu.\n"
+                       "Trade te iam Christo, ut te benefacta sequantur."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Diviti Incredulo Malo"
+                   text:@[
+                       @"Differris, diues, nimium tua cuncta uidendo,\n"
+                       "Insatiabiliter quibus adhuc adicere quaeris.\n"
+                       "Uiuere post ista, dicis, non spero defunctus.\n"
+                       "Ingrate summo Deo, qui sic Deum iudicas esse,\n"
+                       "Te qui nesciente protulit, deinde nutriuit;\n"
+                       "Ipse prata tua, gubernat uineas ipse,\n"
+                       "Ipse greges pecorum et quicquid possides ipse,\n"
+                       "Nec istis adtendistis. Aut tu regis omnia forte?\n"
+                       "Caelum hoc et terram et maria salsa qui fecit,\n"
+                       "Reddere decreuit nos ipsos in aureo saeclo\n"
+                       "Et modo si credis, uiuitur in Dei secreta.\n"
+                       "Disce Deum, stulte, qui uult te inmortalem adesse\n"
+                       "Ut gratias illi referas in agone perennis.\n"
+                       "Lex docet ipsius, sed quia uagari tu quaeris,\n"
+                       "Omnia discredis et inde in tartara ibis:\n"
+                       "Mox animam reddis, duceris quo te paenitet esse.\n"
+                       "At luitur ibi poena spiritalis aeterna;\n"
+                       "Lugia sunt semper, nec permoreris in illa\n"
+                       "Omnipotentem Deum iam tunc ibi sero proclamans."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Divites Humiles Estote"
+                   text:@[
+                       @"Disce, moriture, bonum ostendere cunctis.\n"
+                       "In medio populi quid te facis alterum esse?\n"
+                       "Uadis ubi nescis, et inscius inde recedis;\n"
+                       "Impie tractas, cum ipso corpore sitis\n"
+                       "Tu super diuitias, nimium te tollis in altum\n"
+                       "Et festiua ducis nec respicis pauperes ultro\n"
+                       "Subditos nunc uobis, nec parentes pascitis ipsos.\n"
+                       "Heu miseri! fugiant longius mediocres a uobis.\n"
+                       "'Uixit et extinxit pauper' ebriace clames.\n"
+                       "Mox furiis ageris, cum pereas ipse, Carybdis.\n"
+                       "Indisciplinati sicut pecora diuites estis:\n"
+                       "Legem datis istis, nam uobis parcitis ipsis.\n"
+                       "Exuite, diuites, tantis malis Deo peruersos,\n"
+                       "Subueniat utique tibi, qui nunc operati si forte.\n"
+                       "Estote communes minimis, dum tempus habetis;\n"
+                       "Sicut ulmus amat uitem, sic ipsi pusillos.\n"
+                       "Terribilem legem malis bonis atque benignam\n"
+                       "Obserua nunc sterelis, subditus in prosperis esto;\n"
+                       "Tollite corda fraudis, diuites, et sumite pacis.\n"
+                       "Expiate malum uestrum benefactis a Summo."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Iudicibus Sibi Placentibus"
+                   text:@[
+                       @"Intuite dicta Salominis, iudices omnes,\n"
+                       "Uno uerbo suo qualiter uos ille detractat:\n"
+                       "Dona quam et xenia corrumpunt iudices omnes!\n"
+                       "Inde 'nimis', sequitur, 'datorem semper amatis',\n"
+                       "Cum quaeritur, causa uictoriam tollit iniqua.\n"
+                       "Innocens hic ego sum, nec uos incuso pusillus,\n"
+                       "Blasphemium tollat Salomon, qui clamat aperte.\n"
+                       "'Uobis autem Deus est uenter et praemia iura.'\n"
+                       "Suggerit hoc Paulus apostolus, non ego pulex.\n"
+                       "Si locus aut tempus fauet aut persona prouenit,\n"
+                       "Iudex esto tuus. Quod nunc extolleris inde?\n"
+                       "Blasphemas, indocilis: de cuius praestantia uiuis,\n"
+                       "In fragilitate tanta non respicis umquam.\n"
+                       "Per gradum et lucra auidus fortunae praesumis,\n"
+                       "Lex tibi non ulla est, nec te in prosperitate dignos\n"
+                       "Auro licet cenes cum turba choraulica semper\n"
+                       "Cruciarium Dominum si non adorasti, peristi.\n"
+                       "Et locus et tempus et persona tibi donatur,\n"
+                       "Nunc si tamen credis; sin autem, pro eo timebis.\n"
+                       "Tempera te Christo et ceruicem illi depone:\n"
+                       "Isti honor remanet et tota fiducia rerum.\n"
+                       "Blanditur quando tibi tempus nunc, cautior esto,\n"
+                       "Ultima fatorum non prouidens, quae te oportet.\n"
+                       "Sine Christo nec uixisse te conpotis unquam."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Sibi Placentibus"
+                   text:@[
+                       @"Si locus aut tempus fauet aut persona prouenit,\n"
+                       "Iudex esto tuus. Quod nunc extolleris inde?\n"
+                       "Blasphemas, indocilis: de cuius praestantia uiuis,\n"
+                       "In fragilitate tanta non respicis umquam.\n"
+                       "Per gradum et lucra auidus fortunae praesumis,\n"
+                       "Lex tibi non ulla est, nec te in prosperitate dignos\n"
+                       "Auro licet cenes cum turba choraulica semper\n"
+                       "Cruciarium Dominum si non adorasti, peristi.\n"
+                       "Et locus et tempus et persona tibi donatur,\n"
+                       "Nunc si tamen credis; sin autem, pro eo timebis.\n"
+                       "Tempera te Christo et ceruicem illi depone:\n"
+                       "Isti honor remanet et tota fiducia rerum.\n"
+                       "Blanditur quando tibi tempus nunc, cautior esto,\n"
+                       "Ultima fatorum non prouidens, quae te oportet.\n"
+                       "Sine Christo nec uixisse te conpotis unquam."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Gentilibus"
+                   text:@[
+                       @"Gens sine pastore ferox iam noli uagare.\n"
+                       "Et ego, qui moneo, idem fui nescius errans.\n"
+                       "Nunc ideo Domini figuram sumite uestri,\n"
+                       "Tollite corda fera et exasperate seorsum:\n"
+                       "Intrate stabulis, siluestris, ad praesepia tauri,\n"
+                       "Latronibus tuti sub regis tecta manentes.\n"
+                       "In silua lupi sunt, ideo refugite sub antro.\n"
+                       "Bellaris, insanis nec respicis, ubi moraris.\n"
+                       "Uno crede Deo, ubi mortuus uiuere possis\n"
+                       "Surgas et in regno, cum sit resurrectio iustis."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Item Gentilibus Ignaris"
+                   text:@[
+                       @"Indomita ceruia respuit iugum ferre labori,\n"
+                       "Tunc iuuat in campis crassis satiare cauliclis.\n"
+                       "Et tamen inuita domatur utilis aeque\n"
+                       "Minuiturque ferox esse perinde domata;\n"
+                       "Gens, homo, tu frater, noli pecus esse ferinum,\n"
+                       "Erue te tandem et tecum ipse retracta:\n"
+                       "Non utique pecus nec besteis, sed homo natus,\n"
+                       "Tu te ipse doma sapiens et intra sub antra.\n"
+                       "Idola qui sequeris, nihil nisi uanitas aeui.\n"
+                       "Leuia uos corda perducunt poenali barathro.\n"
+                       "Ibi aurum, uestes, argentum ulnis refertis,\n"
+                       "Ballatur ibi, dein cantatur pro psalmis amori.\n"
+                       "Uitam esse putas, ubi ludi, aut prospicis ista:\n"
+                       "Sortiris, ignare, extincta, aurea quaeris.\n"
+                       "Inde non effugies pestem, licet ipse diuines.\n"
+                       "Gratiam, quam misit Dominus in terra legendam,\n"
+                       "Non requiris eam, sed sic quasi besteus errans.\n"
+                       "Aurea post fata ueniet tibi saecla, si credis recte,\n"
+                       "Rursus ut incipias inmortale uiuere semper.\n"
+                       "Illud quoque datur scire, quod ante fuisti:\n"
+                       "Subiectum te praebe Deo, qui cuncta gubernat."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Of the Tree of Life and Death"
+                   text:@[
+                       @"Adam protoplaustus ut Dei praecepta uitaret,\n"
+                       "Belias seruator fuit de inuidia plasmae.\n"
+                       "Contulisset nobis seu boni seu mali quod egit\n"
+                       "Dux natiuitatis; morimur idemque per illum,\n"
+                       "Ex diuino ipse ut recedens exsul factus a uerbo.\n"
+                       "Finitis sex milibus annis inmortales erimus.\n"
+                       "Gustato pomo ligni mors intrauit in orbem:\n"
+                       "Hoc ligno mortis quaeramus uitae futurae.\n"
+                       "In ligno pendit uita ferens poma, praecepta:\n"
+                       "Kapite nunc ligno uitali poma credentes.\n"
+                       "Lex a ligno data est homini primitiuo timenda,\n"
+                       "Mors unde prouenit neglecta lege primordi:\n"
+                       "Nunc extende manum et sume de ligno uitali.\n"
+                       "Optima lex Domini sequens de ligno processit;\n"
+                       "Perdita lex prima; gustat, unde licet illi,\n"
+                       "Qui deos adorat uetitos, mala gaudia uitae.\n"
+                       "Respuite gustum; sufficiet scire quod esset.\n"
+                       "Si uiuere uultis, reddite uos legi secundae,\n"
+                       "Templorum culturam, daemonum fana uitate.\n"
+                       "Uertite uos Christo, et eritis Deo sodales.\n"
+                       "Xancta Dei lex est, qui mortuos uiuere dicit.\n"
+                       "Ymnum sibi soli Dominus proferre praecepit,\n"
+                       "Zabolicam legem omnes omnino uitate."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@"Of the Foolishness of the Cross"
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Ruci Stulitia"
+                   text:@[
+                       @"De duplici ligno dixi, mors unde processit,\n"
+                       "Et iterum inde procedere uitam frequenter.\n"
+                       "Rex aeternitatis per crucem diros adumbrat,\n"
+                       "Ut sibi non credant. O stulti, morte uiuentes!\n"
+                       "Cain iuniorem occisit nequam repertus:\n"
+                       "Inde Noe subolis Cananaei nati feruntur.\n"
+                       "Sic genus iniquum increuit mundo, qui nunquam\n"
+                       "Transmutat animos in Domini credere crucem.\n"
+                       "Uenit in errorem, et dicunt se uiuere recte.\n"
+                       "Lex in ligno fuit prima, et inde secunda\n"
+                       "Terribilem legem primam cum pace praeuenit.\n"
+                       "In praua iactatione saeua scelerati ruerunt:\n"
+                       "Traiectum clauis Dominum cognoscere nolunt,\n"
+                       "In cuius iudicium cum uenerit, ibi dignoscunt.\n"
+                       "Abel genus autem credit modo Christo benigno."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Quid Iudæ Diant Fanatic?"
+                   text:@[
+                       @"Quid? medius Iudaeus, medius uis esse profanus?\n"
+                       "Unde non effugies iudicium Christi defunctus.\n"
+                       "Ipse caecus erras et ad caecos intras, inepte;\n"
+                       "Idcirco caecus caecum in fossa reducit.\n"
+                       "Uadis ubi nescis, et inscius inde recedis.\n"
+                       "Discentes ad doctos eunt, ut docti recedant,\n"
+                       "At tu aliis uadis, unde nihil discere possis.\n"
+                       "Exis pro foribus, inde et ad idola uadis.\n"
+                       "Interroga primum, quod sit in lege praeceptum,\n"
+                       "Dicant illi tibi, si iussum est deos adorare.\n"
+                       "Ignoratur enim propter quod maxime sumus:\n"
+                       "At illi quoniam rei sunt ex ipso delicto,\n"
+                       "Nihil de praeceptis Dei nisi mirabilia narrant.\n"
+                       "Tunc tamen in fossam secum uos caeci deducunt.\n"
+                       "Funera sunt; nimium de illis tota deferre,\n"
+                       "Aut, quia concludor, agerem congustus aratris.\n"
+                       "Noluit Omnipotens illos intellegere Regem;\n"
+                       "A scelere a tanto refugit ipse cruentos.\n"
+                       "Tradidit se nobis noua superaddita lege,\n"
+                       "Inde modo latrant nobiscum rege deserti.\n"
+                       "Ceterum in illis si spem inesse putatis"
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Iudæis"
+                   text:@[
+                       @"Inprobi semper et dura ceruice recalces,\n"
+                       "Uinci uos non uultis: sic exheredes eritis.\n"
+                       "Dixit Esaias incrassato corde uos esse.\n"
+                       "Aspicis legem, quam Moyses allisit iratus;\n"
+                       "Et idem Dominus dedit illi legem secundam.\n"
+                       "In illa spem posuit, quam uos subsannatis erecti.\n"
+                       "Sic ideo indigni non eritis regno caelesti?"
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Item Iudæis"
+                   text:@[
+                       @"Inspice Liam typum sinagogae fuisse,\n"
+                       "Tam infirmis oculis, quam Iacob in signo recepit;\n"
+                       "Et tamen seruiuit rursum pro minore dilecta,\n"
+                       "Mysterium uerum et typum ecclesiae nostrae.\n"
+                       "Intuite plenae dictum Rebeccae de caelo,\n"
+                       "Unde simulatis aliene, ne Christo credatis.\n"
+                       "Deinde Thamar partum geminorum adite;\n"
+                       "Ad Kain intendite, primum terraeque cultorem,\n"
+                       "Et Abel pastorem, priscus inmaculatus offertor\n"
+                       "In fratris saeuitie qui fuit mactatus a fratre.\n"
+                       "Sic ergo percipite iuniores Christo probatos."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Iterum Ipsis"
+                   text:@[
+                       @"Incredulus populus non est nisi uester, iniqui,\n"
+                       "Tot locis et totiens reprobatus lege clamantum.\n"
+                       "Et sabbatas uestras spernit et tricensimas Altus\n"
+                       "Rescidit omnino uniuersas uestras de lege,\n"
+                       "Ut nec sacrificia faceretis illi praecepta\n"
+                       "Mittere qui dixit lapidem in scandalo uestro.\n"
+                       "Iniqua si quis uestrum non crediderint morte\n"
+                       "Pars alia legis clamat: 'Uidebitis inde\n"
+                       "Suspensam in ligno uitam; nec illi credidistis'.\n"
+                       "Ipse Deus uita est, pependit ipse pro nobis,\n"
+                       "Sed uos indurato corde subsannatis eundem."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@"Of the Time of the Antichrist"
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Antechristi Tempore?"
+                   text:@[
+                       @"Dixit Esaias: Hic homo, qui commouit orbem\n"
+                       "Et reges totidem, sub quo fiet terra deserta.\n"
+                       "Audite, quoniam propheta de illo praedixit;\n"
+                       "Nihil ego conposite dixi, sed legem legendo.\n"
+                       "Tum scilicet mundus finitur, cum ille parebit\n"
+                       "Et tres imperantes ipse deuicerit orbe.\n"
+                       "Cum fuerit autem Nero de inferno leuatus,\n"
+                       "Helias ueniet prius signare dilectos,\n"
+                       "Rex quam sub fine regit et artatio tota.\n"
+                       "In septem annis tremebit undique terra:\n"
+                       "Sed medium tempus Helias, medium Nero tenebit.\n"
+                       "Tunc Babillon meretrix erit incinefacta fauilla\n"
+                       "Inde ad Hierusalem perget, uictorque Latinus\n"
+                       "Tunc dicit: Ego sum Christus, quem semper oratis.\n"
+                       "Et quidem conlaudant illum primitiui decepti\n"
+                       "Multa signa facit quoniam cuius pseudopropheta.\n"
+                       "---\n"
+                       "Omnipotens tribuit, ut spiritalis eradat.\n"
+                       "Recapitulantes scripturas ex eo Iudaei\n"
+                       "Exclamant pariter ad Excelsum sese deceptos."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Populo Absconso Sancto Omnipotentis Christi Dei Vivi"
+                   text:@[
+                       @"Desidet populus absconsus ultimus sanctus\n"
+                       "Et quidem ignotus a nobis ubi moretur.\n"
+                       "Per nouem tribum agant et dimidiam ipsi,\n"
+                       "Omissae duae tribum haec sunt et dimidia nobis.\n"
+                       "Praecepitque Christus per legem uiuere priscos.\n"
+                       "Uiuamus nunc omnes, nouellae traditio legis\n"
+                       "Lex ut ipsa docet! Apertius indico uobis.\n"
+                       "Obrelictae duae tribum et dimidia: quare\n"
+                       "Ab istis dimidia tribum? Ut martyres essent\n"
+                       "Bellum cum inferret electis suis in orbem,\n"
+                       "Seu certe sanctorum chorus prophetarum ad illam\n"
+                       "Consurgeret plebem, qui frenum inponeret illis,\n"
+                       "Obsceni quos equi trucidarunt calci remissa\n"
+                       "Nec suerit ad manus pacem aliquando tenere.\n"
+                       "Semotae sunt isti tribuum, ut mysteria Christi\n"
+                       "Omnia per istas conpleatur saeculo toto.\n"
+                       "Sunt autem de scelere duorum fratrum enatae,\n"
+                       "Auspicio quorum facinus secutae fuere.\n"
+                       "Non merito tales dispersi sunt ipsi cruenti?\n"
+                       "Conueniunt iterum propter mysteria castris.\n"
+                       "Tunc autem properant conpleri legis narrata.\n"
+                       "Omnipotens Christus descendit ad suos electos,\n"
+                       "Obscurati nobis qui fuerunt tempore tanto\n"
+                       "Milia fot facti; illa est gens uera caelestis.\n"
+                       "Non natus ante patrem moritur ibi, neque dolores\n"
+                       "In suis corporibus sentiunt ut ulcera nata.\n"
+                       "Pausantes in lecto suo mature recedunt\n"
+                       "Omnia conplentes legis, ideoque tutantur.\n"
+                       "Transire iubentur ad Dominum partibus istis\n"
+                       "Exsiccat fluuium quibus sicut ante traiectis,\n"
+                       "Nec minus et Dominus ipse producit cum illis.\n"
+                       "Transiit ad nostra, ueniunt cum rege caeleste.\n"
+                       "In quorum itinere quod dicam, quo Deus educet,\n"
+                       "Subsidunt montes ante illos et fontes erumpunt:\n"
+                       "Caelestem populum gaudet creatura uidere.\n"
+                       "Hic tamen festinant matrem defendere captam.\n"
+                       "Rex autem iniquus, qui obtinet, illum ut audit,\n"
+                       "In partem boreae refugit et colligit omnes.\n"
+                       "Sed cum se inlidet exercitu Dei tyrannus\n"
+                       "Terrore caelesti prosternuntur milites eius,\n"
+                       "Ipse cum infando conprehenditur pseudopropheta;\n"
+                       "Decreto Domini traduntur uiui gehennae.\n"
+                       "Ex eo primores et duces seruire iubentur.\n"
+                       "Intrabunt tunc sancti ad antiqua ubera matris,\n"
+                       "Ut autem et illi refrigerent, quos malus ille suasit,\n"
+                       "In uariis poenis cruciabat sibi credendos.\n"
+                       "Uentum est ad finem, quod tollantur scandala mundo;\n"
+                       "Incipiet Dominus iudicium dare per ignem."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Sæculi Istius Fine"
+                   text:@[
+                       @"Dat tuba caelo signum sublato leone\n"
+                       "Et fiunt desubito tenebrae cum caeli fragore.\n"
+                       "Summittit oculos Dominus, ut terra tremescat,\n"
+                       "Adclamat etiam, ut audiant omnes in orbem:\n"
+                       "'Ecce diu tacui sufferens tanto tempore uestra!'\n"
+                       "Conclamant pariter plangentes sero gementes,\n"
+                       "Ululatur, ploratur, nec spatium datur iniquis.\n"
+                       "Lactanti quod faciet mater, cum ipsa crematur?\n"
+                       "In flamma ignis Dominus iudicabit iniquos:\n"
+                       "Iustos autem non tanget ignis, sed immo delinget.\n"
+                       "Sub uno morantur, sed pars in sententia flebit.\n"
+                       "Tantus erit ardor, ut lapides ipsi liquescant,\n"
+                       "In fulmine cogunt uenti, furet ira caelestis\n"
+                       "Ut, quacumque fugit, impius occupetur ab igne.\n"
+                       "Subpetium nullum erit nec nauticae puppes.\n"
+                       "Flamma tamen gentis media partiturque seruans,\n"
+                       "In annis mille ut ferant corpora sanctis.\n"
+                       "Nam inde post annos mille gehennae traduntur,\n"
+                       "Et fabrica cuius erant cum ipsa cremantur."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Resurrectione Prima"
+                   text:@[
+                       @"De caelo descendit ciuitas in anastase prima.\n"
+                       "Et quod referamus de fabrica tanta caeleste?\n"
+                       "Resurgimus illi, qui fuimus illi deuoti,\n"
+                       "Et incorrupti erint iam tunc sine morte uiuentes,\n"
+                       "Sed nec dolor ullus nec gemitus erit in illa.\n"
+                       "Uenturi sunt illi quoque, sub Antechristo qui uincunt\n"
+                       "Robusta martyria, et ipsi toto tempore uiuunt\n"
+                       "Recipiuntque bona, quoniam mala passi fuere,\n"
+                       "Et generant ipsi per annos mille nubentes.\n"
+                       "Conparantur ibi tota uectigalia terrae,\n"
+                       "Terra quia nimium fundit sine fine nouata.\n"
+                       "Inibi non pluuiam, non frigus in aurea castra,\n"
+                       "Obsidiae nullae, sicut nunc, neque rapinae.\n"
+                       "Nec lucernae lumen desiderat ciuitas illa:\n"
+                       "Ex auctore suo lucet, nec nox ibi paret.\n"
+                       "Per duodecim milia stadia lata, longa, sic alta;\n"
+                       "Radicem in terra, sed caput cum caelo peraequat;\n"
+                       "In urbem pro foribus autem sol aut luna lucebit.\n"
+                       "Malus in angore saeptus propter iustos alendos.\n"
+                       "Ab annis autem mille Deus omnia portat."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Die Iudicii"
+                   text:@[
+                       @"De die iudicii propter incredulos addo:\n"
+                       "Emissus iterum Dei dominabitur ignis;\n"
+                       "Dat gemitum terra rerum tunc in ultima fine\n"
+                       "In terra gentes ut tunc incredulae cunctae,\n"
+                       "Euitat et tamen sanctorum castra suorum.\n"
+                       "In una flamma conuertit tota natura,\n"
+                       "Uritur ab imis terra montesque liquescunt,\n"
+                       "De mare nihil remanet, uincetur ab igne potente,\n"
+                       "Interit hoc caelum et ista terra mutatur.\n"
+                       "Conponitur alia nouitas caeli, terrae perennis.\n"
+                       "Inde qui mereunt mittuntur in morte secunda,\n"
+                       "Interius autem habitaculis iusti locantur."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Catecuminis"
+                   text:@[
+                       @"Credentes in Christo derelictis idolis omnes\n"
+                       "Admoneo paucis propter salutaria uestra.\n"
+                       "Temporibus primis per errorem si qua gerebas,\n"
+                       "Erogatus enim Christo tu cuncta relinque,\n"
+                       "Cumque Deum nosti, esto bonus tiro, probatus,\n"
+                       "Uirgineusque pudor tecum uersetur in agno.\n"
+                       "Mens bonis inuigilet: caue ut non delinquas ut ante;\n"
+                       "In baptismo tibi genitali sola donantur.\n"
+                       "Nam si quis peccans catecuminus poena notantur,\n"
+                       "Insignis illa uiuat, sed non sine damna moraris.\n"
+                       "Summa tibi: grauia peccata deuita tu semper."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Fidelibus"
+                   text:@[
+                       @"Fideles admoneo, fratres ne odia tollant:\n"
+                       "Impia martyribus odia reputantur in ignem;\n"
+                       "Destruitur martyr, cuius est confessio talis,\n"
+                       "Lex iniquo datur, ut possit sese frenare;\n"
+                       "Inde lotus carere debes similiter et tu.\n"
+                       "Bis Deo peccas, qui lites fratri protendis.\n"
+                       "Unde non effugies peccatum prisce sectans.\n"
+                       "Semel es lotus, numquid poteris denuo mergi?"
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Fideles Cavete Malum"
+                   text:@[
+                       @"Fallantur uolucres et siluarum bestei escis:\n"
+                       "Incauta natura quibus est tradita mentis,\n"
+                       "Decipiunturque strofia aut esca sequentes,\n"
+                       "Et uitare malum nesciunt nec lege tenentur.\n"
+                       "Lex homini data est et doctrina uitae legenda,\n"
+                       "Ex qua recordatur, ut possit uiuere caute,\n"
+                       "Sui quoque locum, mortis et deroget ea quae sunt.\n"
+                       "Condemnat se ipsum grauiter qui regi delinquet:\n"
+                       "Aut ferro ligatur aut decus gradu deiectus\n"
+                       "Uel uita priuatus perdet, quod frui deberet.\n"
+                       "Exemplo moniti grauiter peccare nolite,\n"
+                       "Translati lauacro magis caritatem habete,\n"
+                       "Et escam muscipuli, ubi mors est, longe uitate.\n"
+                       "Multa sunt martyria, quae sunt sine sanguine fuso.\n"
+                       "Alienum non cupire, uelle martyrii habere,\n"
+                       "Linguam refrenare, humilem te reddere debes,\n"
+                       "Uim ultro non facere nec factam reddere contra\n"
+                       "Mens patiens fueris: intellege martyrem esse."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Pænitentibus"
+                   text:@[
+                       @"Paenitens es factus: noctibus diebusque precare,\n"
+                       "Attamen a matre noli discedere longe,\n"
+                       "Et tibi misericors poterit Altissimus esse.\n"
+                       "Non fiet in uacuum confusio culpae perinde\n"
+                       "In reatu tuo debes manifesta deflere,\n"
+                       "Tu si uulnus habes altum, medicumque require,\n"
+                       "Et tamen in poenis poteris tua damna lenire.\n"
+                       "Namque fatebor enim unum me ex uobis adesse\n"
+                       "Terroremque diu quondam sensisse ruinae.\n"
+                       "Idcirco commoneo uulneratos cautius ire,\n"
+                       "Barbam atque comam foedare in puluere terrae\n"
+                       "Uolutareque saccis et petere summo de Rege\n"
+                       "Subuenire tibi, ne pereas forte de plebe."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Qui Apostatauerunt Deo"
+                   text:@[
+                       @"Quando bellum autem geritur aut inrigat hostis,\n"
+                       "Uincere qui poterit aut latere, magna tropaea,\n"
+                       "Infelix autem erit, qui fuerit captus ab illis.\n"
+                       "Amittit et patriam et regem, cui digne prouenit,\n"
+                       "Pugnare pro patria qui noluit neque pro uita.\n"
+                       "Obisse debuerat quam ire sub barbaro rege,\n"
+                       "Seruitiumque pateat hostibus sine lege deferre.\n"
+                       "Tu si praedicando moreris pro terra, uicisti,\n"
+                       "At si manus dederis incolumem, lege peristi.\n"
+                       "Transfluuiat hostis, tu sub latebra reconde,\n"
+                       "Aut si intrare potest sine caede, ne cessa.\n"
+                       "Undique te redde tutum tuos quoque: uicisti;\n"
+                       "Et uigilanter age, ne quis incurrat in illa.\n"
+                       "Rex infamis erit, si quis se propalat hosti.\n"
+                       "Uincere qui nescit et occurrit tradere sese,\n"
+                       "Nec sibi nec patriae laudem remisit ineptus;\n"
+                       "Tunc uiuere noluit, cum ipsa uita peribit.\n"
+                       "Deinde si refugiat inops aut profanus ab hoste,\n"
+                       "Eramen ut sonans, facti uel ut aspides surdi,\n"
+                       "Orare satis debet et se condere talis."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Infantibus"
+                   text:@[
+                       @"Debellum hostis si subito uenit inundans,\n"
+                       "Et prius quam fugerent, paruulos occupauit inertes,\n"
+                       "Inproperandum eis non est, licet capti uidentur.\n"
+                       "Nec quidem excuso: ob delicta forte parentum\n"
+                       "Fuere promeriti, ideo Deus tradidit illos.\n"
+                       "Attamen adultos hortor, in aula recurrant,\n"
+                       "Nascunturque quasi denuo suae matri de uentre,\n"
+                       "Terribilem gentem fugiens semperque cruentam,\n"
+                       "Impiam, indocilem, ferina uita uiuentem\n"
+                       "Bellum enim alium cum fuerit forte gerendum\n"
+                       "Uincere qui poterit aut certe iam scire cauere"
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Desertores"
+                   text:@[
+                       @"Desertores enim genere non uno dicuntur:\n"
+                       "Est alius nequam, alius in parte secedat,\n"
+                       "Sed tamen utroque iudicia uera decernunt.\n"
+                       "Ecce militatur Christo sicut Caesari: paret.\n"
+                       "Refugium Regis pete, si delictor fuisti;\n"
+                       "Tu illum inplora, prostratus illi fatere:\n"
+                       "Omnia concedet, cuius sunt et omnia nostra.\n"
+                       "Repositus castris ulterius caue delinquas.\n"
+                       "Errare noli diu miles per spelaea ferarum.\n"
+                       "Sit tibi pro peccare desistere gestum inmensum."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Militibus Christi"
+                   text:@[
+                       @"Militiae nomen cum dederis, freno teneris.\n"
+                       "Incipe tunc ergo dimittere pristina gesta,\n"
+                       "Luxurias uita, quoniam labor inminet armis;\n"
+                       "Imperio Regis omni uirtute parendum,\n"
+                       "Tempora postrema si uis pertingere laeta.\n"
+                       "Illa bonus milis semper expecta fruenda,\n"
+                       "Blandire noli tibi, desidias omnino omitte;\n"
+                       "Ut tuo proposito cottidie praesto sis ante,\n"
+                       "Sollicitus esto, matutinus signa reuise.\n"
+                       "Cum uideris bellum, agonia sume propinquus;\n"
+                       "Haec gloria Regis, militem uidere paratum.\n"
+                       "Rex adest optato; propter spem dimicat uestram;\n"
+                       "Ille parat dona, ille pro uictoria lectos\n"
+                       "Suscipit et proprium satellem dedicat esse.\n"
+                       "Tu tibi praeterea in datis parcere noli,\n"
+                       "Impiger esto magis, ut reddat famam pro morte."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Refugis"
+                   text:@[
+                       @"Damnatorum animae merito se ipsae secernunt;\n"
+                       "Ex hoc protegenti iterum ad sua recurrunt.\n"
+                       "Radix Cananaea, maledictum semen, erumpit\n"
+                       "Et in seruili gente sub barbaro rege refugit,\n"
+                       "Flamma quos aeterna torquebit die decreto.\n"
+                       "Uult uagus errare sine disciplina profanus\n"
+                       "Grassari per fauces uiarum lege solutus.\n"
+                       "Isti ergo tales, quos nulla poena coegit\n"
+                       "Si secedere nolunt ab idolis, respui debent."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"De Lolii Semine"
+                   text:@[
+                       @"De semine lolii, qui stant in ecclesia mixti\n"
+                       "Expletis temporibus messis separatur a fructu.\n"
+                       "Lolium est natum, quod non inmiserat dominus;\n"
+                       "Omne lolium agricola collectum separat illud.\n"
+                       "Lex ager nobis est: qui fecerit bonum in illa,\n"
+                       "Ipsam utique nobis prestat requiem ueram\n"
+                       "Ipse Dominator, qua lolium igne crematur.\n"
+                       "Si ergo putastis, quando sub uno morantur\n"
+                       "Erratis: sterelis Christianos uos esse designo\n"
+                       "Maledicta fuit arbor sine fructu ficulna\n"
+                       "In uerbo Domini et statim exaruit illa.\n"
+                       "Non operas facitis, non donum gazo paratis:\n"
+                       "Et sic promereri Dominum putatis inanes?"
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Dissimulatori"
+                   text:@[
+                       @"Dissimulas legem tanto praeconio latam\n"
+                       "In tuba praesente caeleste uoce clamante.\n"
+                       "Si propheta tantum declamauisset in nubem,\n"
+                       "Sufficeret utique Domini uox missa per illum.\n"
+                       "In tot profatorum uolumina uox Domni proclamat;\n"
+                       "Malitiam nullus dimittit [ita] aeque de corde.\n"
+                       "Uis bona uidere et fraudibus uiuere quaeris.\n"
+                       "Lex ipsa cur ergo processit tanto labore?\n"
+                       "Abuteris Domini mandata et te filium inquis;\n"
+                       "Tu si talis eris, sine causa fideris, inquam.\n"
+                       "Omnipotens mites quaerit sibi filios esse,\n"
+                       "Rectos, corde bonos, deuotos legi diuinae,\n"
+                       "Inmites autem iam scitis ubi demersit."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Sæcularia in Totum Fugienda"
+                   text:@[
+                       @"Si quidam doctores, dum expectant munera uestra\n"
+                       "Aut timent personas, laxantes singula uobis,\n"
+                       "Et ego non doceo, sed cogor dicere uerum.\n"
+                       "Cum caterua Mali pergis ad expectacula uana,\n"
+                       "Ubi Satanas fragoribus conparat astus\n"
+                       "Licere persuadis tibi, quocumque placebit.\n"
+                       "Altissimi prolis cum filiis Zabuli mixta\n"
+                       "Respicere non uis, cui renuntiasti, priora.\n"
+                       "In ipsis uersaris iterum: qui proderit Unus?\n"
+                       "Aut si pro languore datum quod stulte profanas\n"
+                       "---\n"
+                       "Nolite diligere mundum neque ambitum eius:\n"
+                       "Tanta Dei uox est, et tibi pro leui uidetur.\n"
+                       "Obseruas mandatum hominis, et Dei deuitas;\n"
+                       "Tu fidis muneri, quod doctores ora procludunt\n"
+                       "Ut taceant neque dicant tibi iussa diuina.\n"
+                       "Me uera dicentem si contemneres, prospice Summum:\n"
+                       "Filius cuius eras, illi te adsigna clientem.\n"
+                       "Uiuere si quaeris gentiliter homo fidelis,\n"
+                       "Gaudia te mundi remouent a gratia Christi;\n"
+                       "Indisciplinate quod leue licere praesumis,\n"
+                       "Et choros historicos et cantica musica quaeris,\n"
+                       "Nec tali subolem exuanniri amentia curas.\n"
+                       "Dum uita frunisci putas, inprouidus erras.\n"
+                       "Altissimus uiuet, et iusta praecepta deuitas."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Christianum Talem Esse"
+                   text:@[
+                       @"Cum Dominus dicat, in gemitum edere panem,\n"
+                       "Hic ut quid nunc agis, qui cupis uiuere laetus?\n"
+                       "Rescindere quaeris sententiam Summi demissam\n"
+                       "In protoplausto uide frenum procedere legis.\n"
+                       "Si Deus omnipotens cum sudore uiuere iussit,\n"
+                       "Tu qui iocundaris, ergo iam exter es illi.\n"
+                       "Indignatum ait Dominum scriptura Iudaeis:\n"
+                       "Ab esca refecti surrexerunt ludere fili.\n"
+                       "Nunc ergo cur illos persequimur sponte profectos?\n"
+                       "Unde perierunt illi, nos cauere debemus.\n"
+                       "Maxima pars uestra luxuriis dedita paret.\n"
+                       "Transgrederis legem, cum te facis musicis inter.\n"
+                       "Apostolus clamat, clamat immo Deus per illum:\n"
+                       "Licentia uestra uos, inquit in ipsa, deperdunt.\n"
+                       "Esto ergo talis, qualem uult esse te Christus:\n"
+                       "Mitis et in illo hilaris, nam saeculo tristis.\n"
+                       "Excurre, labora, suda, cum tristitia pugna;\n"
+                       "Spes cum labore uenit et uictoriae palma donatur.\n"
+                       "Si refrigerare cupis animam, ad martyres i!\n"
+                       "Expecta requiem futurorum transitu mortis."
+                   ]]
+              ]],
+             [[Work alloc]
+              initWithTitle:@""
+              sections:@[
+                  [[WorkSection alloc]
+                   initWithHeader:@"Matronis Ecclesiæ Dei Vivi"
+                   text:@[
+                       @"Matrona uis esse Christiana ut saeculi discens:\n"
+                       "Auro te circumdas aut sirica ueste, pudica,\n"
+                       "Terrorem legis ex auribus uento remittis,\n"
+                       "Res uanas adfectas cuncta de Zabuli pompa,\n"
+                       "Ornas et ad speclum cincinnos fronte reflexos,\n"
+                       "Nec non et inducis malis medicamina falsa,\n"
+                       "In oculis puris stibium peruerso decore,\n"
+                       "Seu crines tingis, ut sint toto tempore nigri.\n"
+                       "Est Deus inspector, penetrat qui singula corda.\n"
+                       "Ceterum pudicis ista necessaria non sunt.\n"
+                       "Claro ac pudico sensu pertundite pectus;\n"
+                       "Lex Dei testatur tales abscedere leges,\n"
+                       "Ex corde quae credit femina marito probata\n"
+                       "Sufficiat esse non cultibus sed bona mente.\n"
+                       "Induite uestes quas oportet, frigus ut ostent\n"
+                       "Aut nimium solis, tantum ut pudico proberis\n"
+                       "Et in plebe Dei facultatis dona demonstres.\n"
+                       "Dat tibi memoriam Tabitha clarissima quondam;\n"
+                       "Exanimata iacet precibus uiduarum erecta.\n"
+                       "In dando promeruit, non comtibus, inde leuari.\n"
+                       "Uos matronae bonae uanitatis fugite decorem:\n"
+                       "Incestas in feminas congruet cultura lupana.\n"
+                       "Uincite malignum, pudicae feminae Christi,\n"
+                       "In dando diuitias uestras ostendite totas.\n"
+                       "[Xancta Dei mulier diuitias corde demonstrat.\n"
+                       "Ymnificato choro placitoque Christo seruire\n"
+                       "Zelantes fauore Christo offerte odorem.]"
                    ]]
               ]],
              [[Work alloc]
@@ -677,376 +1468,267 @@
                   [[WorkSection alloc]
                    initWithHeader:@""
                    text:@[
-                       @""
+                       @"Audiuisti uocem, quae uis Christiana manere,\n"
+                       "Beatus Paulus qualiter rogare praecepit.\n"
+                       "Caeliloquax autem Esaias doctor et auctor\n"
+                       "(Detestatur enim caritatem mundi sequentes)\n"
+                       "Exaltatae, inquit, ceciderunt filiae Sion.\n"
+                       "Fas in Deo non est Christianam coli fidelem.\n"
+                       "Gentili more quaeris praecedere Dei sancta?\n"
+                       "Has Dei praecones damnant in lege clamantes\n"
+                       "Iniustas esse feminas, quae se taliter ornant.\n"
+                       "Kapillos inficitis, oculos nigrore linitis,\n"
+                       "Lunatis comulas gradulatim fronte deuinctas,\n"
+                       "Malam medicatis quodam superducto rubore,\n"
+                       "Nec non et inaures grauissimo pondere pendent,\n"
+                       "Obruitis collum naturale gemmis et auro,\n"
+                       "Palmas Deo dignas praesagio malo ligatis.\n"
+                       "Quid memorem uestes aut totam Zabuli pompam?\n"
+                       "Respuitis legem, mauultis mundo placere,\n"
+                       "Saltatis in domibus, pro psalmis cantatis amores.\n"
+                       "Tu licet sis casta, non te purgat sinistra sequendo:\n"
+                       "Uos ideo tales Christus cum gentibus aequat.\n"
+                       "Xancta Dei mulier diuitias corde demonstrat.\n"
+                       "Ymnificato choro placitoque Christo seruire\n"
+                       "Zelantes fauore Christo offerte odorem."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"In Ecclesia Omni Populo Dei"
                    text:@[
-                       @""
+                       @"Iustus ego non sum, fratres, de cloaca leuatus,\n"
+                       "Nec me supertollo, sed doleo uestri, qui cerno\n"
+                       "Ex tanto populo nullum in agone coronari.\n"
+                       "Certe si non ipse pugnat, uel suggerat illis.\n"
+                       "Cladem obiurgate, ouanter officite luxu!\n"
+                       "Laborat frater aduersante mundo sub armis,\n"
+                       "Et fretus opibus nec pugnas nec pugnanti resistis.\n"
+                       "---\n"
+                       "In talem pendit ecclesia tota, si uincat.\n"
+                       "Abstinere uides fratrem et pugnare cum hoste.\n"
+                       "Optas tu in castris pacem, foras ille repugnat.\n"
+                       "Misericors esto, ut sis ante omnia saluus.\n"
+                       "Nec intuis Dominum praeconio tanto clamantem,\n"
+                       "Inimicis etiam qui iubet alimenta praebere?\n"
+                       "Prandia ob ea prospice diurna, quae semper\n"
+                       "Omnibus omnino diebus cum pauperis sumpsit.\n"
+                       "Pascere tu quaeris, stulte, qui te denuo pascat.\n"
+                       "Uix ille mihi paret, qui conponi proponit.\n"
+                       "Laute cibatum distenso uentre declamas,\n"
+                       "Oppressus inopia frater est iuxta tabescens.\n"
+                       "De die Dominica quid dicis? Si non ante uocauit,\n"
+                       "Exuoca de turba pauperem quem ad prandium ducas\n"
+                       "In talibus spes est uestra de uestro refectis."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Zela Concupiscenciæ"
                    text:@[
-                       @""
+                       @"Dum cupis, inde peris, dum ardis proximi zelo;\n"
+                       "Extinguis te ipsum, quando te incendis abactus.\n"
+                       "Zelaris alium, inuide, de malo lucrantem,\n"
+                       "Et te parem concupis fieri pecuniae tantae.\n"
+                       "Lex sic non aspicit; dum illam incumbere quaeris,\n"
+                       "Omnia suspensus uiuis in ardore lucrorum;\n"
+                       "Cumque reus tibi sis ipsum te iudice damnans,\n"
+                       "Oculorum acies nunquam satiatur auara.\n"
+                       "Nunc ergo si credeas et cogites: uana cupido est\n"
+                       "Congerere nimium sub fragili uita moranti.\n"
+                       "Unde Deus clamat: Stulte, hanc noctem uocaris!\n"
+                       "Postea ruina ruit: cuius erint ista talenta?\n"
+                       "In suprema cadis iniusta lucra conando,\n"
+                       "Suggeret cum Dominus unicuique uicta diurna.\n"
+                       "Congestet alius: tu bono uiuere quaere,\n"
+                       "Et Deus cor censens agis super omnia uictor;\n"
+                       "Nec enim dico, ut in timore te mittas,\n"
+                       "Cum pro die tuo uigilas sine fraude uiuendo.\n"
+                       "In esca perit auis aut inhaeret inprouida uisco.\n"
+                       "Arbitrare tibi simpliciter ualde cauendum.\n"
+                       "Excedant alii, finem tu prospice semper."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Bellum Cottidianum"
                    text:@[
-                       @""
+                       @"Belligerare cupis, stulte, quasi bella quiescunt!\n"
+                       "Ex protoplausto die pugnatur in fine nobis.\n"
+                       "Libido praecipitat: bellum est, compugna cum illo.\n"
+                       "Luxuria suadet: abutere, bellum uicisti.\n"
+                       "Uino copioso parce, ne per illum aberres;\n"
+                       "Maledicti retinete linguam, unde dominum adoras;\n"
+                       "Conpescere furiam, pacificum redde te cunctis;\n"
+                       "Oppressos miseriis depremere caue minores\n"
+                       "Terrorem adcommoda tantum et noli nocere;\n"
+                       "Tramite uos recto ducite sincero per saeclum\n"
+                       "In tuis diuitiis communem te redde pusillis;\n"
+                       "De labore tuo dona, nudum uesti: sic uincis.\n"
+                       "Insidias nullo facias qui Deo deseruis:\n"
+                       "Aspice principium, unde perit inuidiis hostis.\n"
+                       "Non sum ego doctor, sed lex docet ipsa clamando.\n"
+                       "Uerba geris tanta uana, qui sub uno momento\n"
+                       "Martyrium quaeris otiosus tollere Christo."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Zelo Concupscenciæ"
                    text:@[
-                       @""
+                       @"Dum cupis, inde peris, dum ardis proximi zelo;\n"
+                       "Extinguis te ipsum, quando te incendis abactus.\n"
+                       "Zelaris alium, inuide, de malo lucrantem,\n"
+                       "Et te parem concupis fieri pecuniae tantae.\n"
+                       "Lex sic non aspicit; dum illam incumbere quaeris,\n"
+                       "Omnia suspensus uiuis in ardore lucrorum;\n"
+                       "Cumque reus tibi sis ipsum te iudice damnans,\n"
+                       "Oculorum acies nunquam satiatur auara.\n"
+                       "Nunc ergo si credeas et cogites: uana cupido est\n"
+                       "Congerere nimium sub fragili uita moranti.\n"
+                       "Unde Deus clamat: Stulte, hanc noctem uocaris!\n"
+                       "Postea ruina ruit: cuius erint ista talenta?\n"
+                       "Suggeret cum Dominus unicuique uicta diurna.\n"
+                       "Congestet alius: tu bono uiuere quaere,\n"
+                       "Et Deus cor censens agis super omnia uictor;\n"
+                       "Nec enim dico, ut in timore te mittas,\n"
+                       "Cum pro die tuo uigilas sine fraude uiuendo.\n"
+                       "In esca perit auis aut inhaeret inprouida uisco.\n"
+                       "Arbitrare tibi simpliciter ualde cauendum.\n"
+                       "Excedant alii, finem tu prospice semper."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Qui de Malo Donant"
                    text:@[
-                       @""
+                       @"Quid te bonum fingis alieno uulnere, nequor?\n"
+                       "Unde tu largiris, alter cottidie plorat.\n"
+                       "Ista tu discredis Dominum uidere: doceris.\n"
+                       "Dona iniquorum non probat Altissimus, inquit.\n"
+                       "Erumpis miseris, dum fueris locos adeptus.\n"
+                       "Munera dat alter, ut alterum reddat inanem,\n"
+                       "Aut si fenerasti duplicem centesima nummum,\n"
+                       "Largiri uis inde, ut te quasi malum depurges:\n"
+                       "Omnipotens tales operas omnino recusat.\n"
+                       "Donas tu de lacrimis candidatus; ille nigratus\n"
+                       "Oppressus usuris deplorat factus egenus.\n"
+                       "Nanctus praeterea tempus captat oribus hostis,\n"
+                       "Ad praesens populas pretio tu sanctos iniquus.\n"
+                       "Nec non et de lucro mercis si uis te piare,\n"
+                       "Te ipsum inlidis, non alium, inquam inique."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"De Pace Subdola"
                    text:@[
-                       @""
+                       @"Dispositum tempus uenit nostris pacem in urbe\n"
+                       "Et ruinas simul blandiente saeculo primis.\n"
+                       "Praecipitis populo, quem ipsi in schisma misistis:\n"
+                       "Aut facite legem ciuitatis aut exite de illa.\n"
+                       "Conspicitis stipulam cohaerentem in oculis nostris,\n"
+                       "Et uestris in oculis non uultis cernere trabem.\n"
+                       "Subdola pax uobis uenit, persecutio flagrat.\n"
+                       "Uulnera non parent, et sic sine caede ruistis,\n"
+                       "---\n"
+                       "De omnibus uobis uix unus caute se gessit.\n"
+                       "O malo nutriri in occisione praedicti!\n"
+                       "Laudatis pacem subdolam et uobis iniquam.\n"
+                       "Alterius facti milites, non Christi, peristis."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Lectoribus"
                    text:@[
-                       @""
+                       @"Lectores moneo quosdam cognoscere tantum,\n"
+                       "Et dare materiam ceteris exemplo uiuendi,\n"
+                       "Certamen fugire lites totidemque uitare,\n"
+                       "Terrorem premere, nec unquam esse superbos.\n"
+                       "Obsequia iusta maiorum quoque deferte;\n"
+                       "Reddite uos Christo similes, filioli, magistro;\n"
+                       "Inter agrestiua benefacitis lilia sitis.\n"
+                       "Beati facti estis, cum feceritis edicta.\n"
+                       "Uos flores in plebe, uos estis Christi lucernas,\n"
+                       "Seruate quod estis et memorare potestis."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Ministris"
                    text:@[
-                       @""
+                       @"Ministerium Christi zacones exercite casti;\n"
+                       "Idcirco ministri facite praecepta magistri.\n"
+                       "Nolite fugere personam iudicis aequi,\n"
+                       "Integrate locum uestrum per omnia docti.\n"
+                       "Susum intendentes, semper Deo summo deuoti\n"
+                       "Tota Deo reddite inlaesa sacra, ministri.\n"
+                       "Rebus in diuersis exemplum date parati;\n"
+                       "Inclinate caput uestrum pastoribus ipsi:\n"
+                       "Sic fiet, ut Christo possitis esse probati."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Pastoribus Dei"
                    text:@[
-                       @""
+                       @"Pastor si confessus fuerit, geminauit agonem.\n"
+                       "Apostolus autem tales iubet esse magistros:\n"
+                       "Sit patiens rector, sciat, ubi frena remittat;\n"
+                       "Terreat in primis, et postea melle perungat,\n"
+                       "Obseruetque prius, ut faciat ipse quid dicit;\n"
+                       "Redditur in culpa pastor saecularia seruans,\n"
+                       "In faciem cuius sis ausus dicere quicquam.\n"
+                       "Bullit in inferno rumoribus ipsa gehenna:\n"
+                       "Uae miserae plebi, dubia quae forte uacillat!\n"
+                       "Si talis aderit pastor, paene perdita instat;\n"
+                       "Deuotus autem eam continet recte gubernans;\n"
+                       "Exhilaratur enim ex anima regibus aptis.\n"
+                       "In talibus spes est et uiuit ecclesia tota."
                    ]]
               ]],
              [[Work alloc]
               initWithTitle:@""
               sections:@[
                   [[WorkSection alloc]
-                   initWithHeader:@""
+                   initWithHeader:@"Maioribus Nati Dico"
                    text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
-                   ]]
-              ]],
-             [[Work alloc]
-              initWithTitle:@""
-              sections:@[
-                  [[WorkSection alloc]
-                   initWithHeader:@""
-                   text:@[
-                       @""
+                       @"Me solum exposcit tempus uobis dicere uerum.\n"
+                       "Ab uno semper mouitur, quod multi detractant.\n"
+                       "In me solo uolo odia conuertere uestra,\n"
+                       "Omnium ut pausent praecordias tanto rumore.\n"
+                       "Respicite dictum, quod ueritas odia tollat.\n"
+                       "Iam praedixi quod est de pace subdola quanta!\n"
+                       "Blandiendo uobis subrepsit Euae seductor.\n"
+                       "Uos quia nescitis, laqueo instar ruistis,\n"
+                       "Sorbitis omnino auram dum saeculi ipsam.\n"
+                       "Non gratis aget, pro quo interceditis, ullus;\n"
+                       "Ab igne qui refugit, agit in uoragine uestro.\n"
+                       "Tunc repetit suppetium miser denudatus a uobis:\n"
+                       "Ipsi iam horrescunt iudices peculantia uestra.\n"
+                       "De breuiori titulo nam in uobis inararem.\n"
+                       "Inspicitis dicentes, quibus uos ostenditis ultro;\n"
+                       "Cum ipsis et epulas capitis et pascitis ipsos.\n"
+                       "Ob ea iam terrae paene fundamenta paratis."
                    ]]
               ]]
          ]],
