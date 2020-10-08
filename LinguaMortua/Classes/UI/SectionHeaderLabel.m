@@ -14,7 +14,9 @@
     self = [super init];
 
     self.text = title;
-    self.font = [UIFont fontWithName:@"HiraMinProN-W3" size:16];
+    UIFont *font = [UIFont fontWithName:@"HiraMinProN-W3" size:16];
+    UIFontMetrics *metrics = [UIFontMetrics metricsForTextStyle:UIFontTextStyleLargeTitle];
+    self.font = [metrics scaledFontForFont:font];
     self.numberOfLines = 0;
     self.textAlignment = NSTextAlignmentCenter;
     self.lineBreakMode = NSLineBreakByWordWrapping;

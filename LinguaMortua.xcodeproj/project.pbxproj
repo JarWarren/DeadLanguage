@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7E23E607252995C80035DE7D /* SectionHeaderLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E23E606252995C80035DE7D /* SectionHeaderLabel.m */; };
 		7E5F2475252A39900066525D /* SplitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E5F2474252A39900066525D /* SplitViewController.m */; };
+		7E7B037F252EE24E00F69E2C /* DynamicFontLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E7B037E252EE24E00F69E2C /* DynamicFontLabel.m */; };
 		7EC9A9342504B404001ED5A6 /* SourceTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC9A9332504B404001ED5A6 /* SourceTableViewCell.m */; };
 		7EFD987225042466008EED5E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD987125042466008EED5E /* AppDelegate.m */; };
 		7EFD987525042466008EED5E /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFD987425042466008EED5E /* SceneDelegate.m */; };
@@ -30,6 +31,8 @@
 		7E23E606252995C80035DE7D /* SectionHeaderLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SectionHeaderLabel.m; sourceTree = "<group>"; };
 		7E5F2473252A39900066525D /* SplitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SplitViewController.h; sourceTree = "<group>"; };
 		7E5F2474252A39900066525D /* SplitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SplitViewController.m; sourceTree = "<group>"; };
+		7E7B037D252EE24E00F69E2C /* DynamicFontLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DynamicFontLabel.h; path = LinguaMortua/Classes/UI/DynamicFontLabel.h; sourceTree = SOURCE_ROOT; };
+		7E7B037E252EE24E00F69E2C /* DynamicFontLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DynamicFontLabel.m; path = LinguaMortua/Classes/UI/DynamicFontLabel.m; sourceTree = SOURCE_ROOT; };
 		7EC9A9322504B404001ED5A6 /* SourceTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceTableViewCell.h; sourceTree = "<group>"; };
 		7EC9A9332504B404001ED5A6 /* SourceTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SourceTableViewCell.m; sourceTree = "<group>"; };
 		7EFD986D25042466008EED5E /* LinguaMortua.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LinguaMortua.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +72,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7E7B037B252EDD4800F69E2C /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				7EFD987625042466008EED5E /* MainViewController.h */,
+				7EFD987725042466008EED5E /* MainViewController.m */,
+				7EFD98A225044189008EED5E /* ReaderTableViewController.h */,
+				7EFD98A325044189008EED5E /* ReaderTableViewController.m */,
+				7E5F2473252A39900066525D /* SplitViewController.h */,
+				7E5F2474252A39900066525D /* SplitViewController.m */,
+				7EFD989F25044181008EED5E /* WorkSelectionTableViewController.h */,
+				7EFD98A025044181008EED5E /* WorkSelectionTableViewController.m */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
 		7EFD986425042466008EED5E = {
 			isa = PBXGroup;
 			children = (
@@ -137,18 +155,13 @@
 		7EFD989525042FEE008EED5E /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				7EFD987625042466008EED5E /* MainViewController.h */,
-				7EFD987725042466008EED5E /* MainViewController.m */,
-				7EFD98A225044189008EED5E /* ReaderTableViewController.h */,
-				7EFD98A325044189008EED5E /* ReaderTableViewController.m */,
+				7E7B037B252EDD4800F69E2C /* ViewControllers */,
+				7E7B037D252EE24E00F69E2C /* DynamicFontLabel.h */,
+				7E7B037E252EE24E00F69E2C /* DynamicFontLabel.m */,
 				7E23E605252995C80035DE7D /* SectionHeaderLabel.h */,
 				7E23E606252995C80035DE7D /* SectionHeaderLabel.m */,
 				7EC9A9322504B404001ED5A6 /* SourceTableViewCell.h */,
 				7EC9A9332504B404001ED5A6 /* SourceTableViewCell.m */,
-				7E5F2473252A39900066525D /* SplitViewController.h */,
-				7E5F2474252A39900066525D /* SplitViewController.m */,
-				7EFD989F25044181008EED5E /* WorkSelectionTableViewController.h */,
-				7EFD98A025044181008EED5E /* WorkSelectionTableViewController.m */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -228,6 +241,7 @@
 				7EFD987825042466008EED5E /* MainViewController.m in Sources */,
 				7EFD987225042466008EED5E /* AppDelegate.m in Sources */,
 				7E5F2475252A39900066525D /* SplitViewController.m in Sources */,
+				7E7B037F252EE24E00F69E2C /* DynamicFontLabel.m in Sources */,
 				7EFD989E250433F7008EED5E /* SourceController.m in Sources */,
 				7EC9A9342504B404001ED5A6 /* SourceTableViewCell.m in Sources */,
 				7EFD98A425044189008EED5E /* ReaderTableViewController.m in Sources */,
